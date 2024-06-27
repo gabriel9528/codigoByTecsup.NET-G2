@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\bin\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\bin\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\bin\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\bin\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\bin\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\refint\Ejercicio4_PolimorfismoEstatico.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\Ejercicio4_PolimorfismoEstatico.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Miercoles\Ejercicio4_PolimorfismoEstatico\Ejercicio4_PolimorfismoEstatico\obj\Debug\net8.0\ref\Ejercicio4_PolimorfismoEstatico.dll

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Miercoles\\Ejercicio4_PolimorfismoEstatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C81CB0-EE6D-478F-AAE3-D49CAB38843D}|Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\miercoles\\ejercicio4_polimorfismoestatico\\ejercicio4_polimorfismoestatico\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C81CB0-EE6D-478F-AAE3-D49CAB38843D}|Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico.csproj|solutionrelative:ejercicio4_polimorfismoestatico\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C81CB0-EE6D-478F-AAE3-D49CAB38843D}|Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\miercoles\\ejercicio4_polimorfismoestatico\\ejercicio4_polimorfismoestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C81CB0-EE6D-478F-AAE3-D49CAB38843D}|Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico.csproj|solutionrelative:ejercicio4_polimorfismoestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Miercoles\\Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_PolimorfismoEstatico\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Miercoles\\Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico\\Calculadora.cs",
+              "RelativeToolTip": "Ejercicio4_PolimorfismoEstatico\\Calculadora.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:47:41.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Miercoles\\Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_PolimorfismoEstatico\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Miercoles\\Ejercicio4_PolimorfismoEstatico\\Ejercicio4_PolimorfismoEstatico\\Program.cs",
+              "RelativeToolTip": "Ejercicio4_PolimorfismoEstatico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:47:25.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
