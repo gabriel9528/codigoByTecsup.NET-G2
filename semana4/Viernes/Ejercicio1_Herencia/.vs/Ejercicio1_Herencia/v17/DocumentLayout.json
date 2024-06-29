@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio1_herencia\\ejercicio1_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|solutionrelative:ejercicio1_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio1_herencia\\ejercicio1_herencia\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|solutionrelative:ejercicio1_herencia\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio1_herencia\\ejercicio1_herencia\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|solutionrelative:ejercicio1_herencia\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio1_herencia\\ejercicio1_herencia\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D1FE46-908A-4929-BF9E-4AB20E6B8E24}|Ejercicio1_Herencia\\Ejercicio1_Herencia.csproj|solutionrelative:ejercicio1_herencia\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resta.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Resta.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Herencia\\Resta.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Resta.cs",
+              "RelativeToolTip": "Ejercicio1_Herencia\\Resta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:51:50.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Suma.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Herencia\\Suma.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Suma.cs",
+              "RelativeToolTip": "Ejercicio1_Herencia\\Suma.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:51:39.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Operacion.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Herencia\\Operacion.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Operacion.cs",
+              "RelativeToolTip": "Ejercicio1_Herencia\\Operacion.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:49:01.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio1_Herencia\\Ejercicio1_Herencia\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_Herencia\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:47:22.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
