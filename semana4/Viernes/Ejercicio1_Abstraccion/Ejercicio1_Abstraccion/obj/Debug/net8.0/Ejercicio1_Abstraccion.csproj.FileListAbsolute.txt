@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\bin\Debug\net8.0\Ejercicio1_Abstraccion.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\bin\Debug\net8.0\Ejercicio1_Abstraccion.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\bin\Debug\net8.0\Ejercicio1_Abstraccion.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\bin\Debug\net8.0\Ejercicio1_Abstraccion.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\bin\Debug\net8.0\Ejercicio1_Abstraccion.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\refint\Ejercicio1_Abstraccion.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\Ejercicio1_Abstraccion.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio1_Abstraccion\Ejercicio1_Abstraccion\obj\Debug\net8.0\ref\Ejercicio1_Abstraccion.dll
