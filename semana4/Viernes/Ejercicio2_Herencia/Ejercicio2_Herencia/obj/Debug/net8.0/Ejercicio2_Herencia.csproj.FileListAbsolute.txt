@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\bin\Debug\net8.0\Ejercicio2_Herencia.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\bin\Debug\net8.0\Ejercicio2_Herencia.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\bin\Debug\net8.0\Ejercicio2_Herencia.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\bin\Debug\net8.0\Ejercicio2_Herencia.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\bin\Debug\net8.0\Ejercicio2_Herencia.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\refint\Ejercicio2_Herencia.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\Ejercicio2_Herencia.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio2_Herencia\Ejercicio2_Herencia\obj\Debug\net8.0\ref\Ejercicio2_Herencia.dll
