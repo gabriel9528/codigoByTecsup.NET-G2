@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\bin\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\bin\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\bin\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\bin\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\bin\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\refint\Ejercicio4_Abstraccion_ClaseAbstracta.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\Ejercicio4_Abstraccion_ClaseAbstracta.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana4\Viernes\Ejercicio4_Abstraccion_ClaseAbstracta\Ejercicio4_Abstraccion_ClaseAbstracta\obj\Debug\net8.0\ref\Ejercicio4_Abstraccion_ClaseAbstracta.dll
