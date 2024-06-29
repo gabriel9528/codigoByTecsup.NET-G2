@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\irendimientogenerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\irendimientogenerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\iinteresgenerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\iinteresgenerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\icuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\icuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\cuentainversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\cuentainversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana4\\viernes\\ejercicio3_herencia_interface_claseabs\\interfaces1\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E1D6F-E4C6-410B-B443-66DB904EA7F5}|Interfaces1\\Interfaces1.csproj|solutionrelative:interfaces1\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CuentaInversion.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaInversion.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\CuentaInversion.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaInversion.cs",
+              "RelativeToolTip": "Interfaces1\\CuentaInversion.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:58:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuentaCorriente.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaCorriente.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\CuentaCorriente.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaCorriente.cs",
+              "RelativeToolTip": "Interfaces1\\CuentaCorriente.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:57:21.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaAhorro.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaAhorro.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\CuentaAhorro.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaAhorro.cs",
+              "RelativeToolTip": "Interfaces1\\CuentaAhorro.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:30:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\CuentaBancaria.cs",
+              "RelativeToolTip": "Interfaces1\\CuentaBancaria.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:25:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\ICuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\ICuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\ICuentaBancaria.cs",
+              "RelativeToolTip": "Interfaces1\\ICuentaBancaria.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:20:47.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRendimientoGenerable.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\IRendimientoGenerable.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\IRendimientoGenerable.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\IRendimientoGenerable.cs",
+              "RelativeToolTip": "Interfaces1\\IRendimientoGenerable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:23:20.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\Program.cs",
+              "RelativeToolTip": "Interfaces1\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAtwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:20:19.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInteresGenerable.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\IInteresGenerable.cs",
+              "RelativeDocumentMoniker": "Interfaces1\\IInteresGenerable.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana4\\Viernes\\Ejercicio3_Herencia_Interface_ClaseABS\\Interfaces1\\IInteresGenerable.cs",
+              "RelativeToolTip": "Interfaces1\\IInteresGenerable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:22:49.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
