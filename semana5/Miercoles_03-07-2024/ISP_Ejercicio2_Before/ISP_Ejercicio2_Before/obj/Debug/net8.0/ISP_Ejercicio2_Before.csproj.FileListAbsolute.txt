@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\bin\Debug\net8.0\ISP_Ejercicio2_Before.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\bin\Debug\net8.0\ISP_Ejercicio2_Before.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\bin\Debug\net8.0\ISP_Ejercicio2_Before.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\bin\Debug\net8.0\ISP_Ejercicio2_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\bin\Debug\net8.0\ISP_Ejercicio2_Before.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\refint\ISP_Ejercicio2_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ISP_Ejercicio2_Before.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\ISP_Ejercicio2_Before\ISP_Ejercicio2_Before\obj\Debug\net8.0\ref\ISP_Ejercicio2_Before.dll
