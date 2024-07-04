@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\bin\Debug\net8.0\LSP_Ejercicio1_AFTER.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\bin\Debug\net8.0\LSP_Ejercicio1_AFTER.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\bin\Debug\net8.0\LSP_Ejercicio1_AFTER.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\bin\Debug\net8.0\LSP_Ejercicio1_AFTER.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\bin\Debug\net8.0\LSP_Ejercicio1_AFTER.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\refint\LSP_Ejercicio1_AFTER.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\LSP_Ejercicio1_AFTER.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Miercoles_03-07-2024\LSP_Ejercicio1_AFTER\LSP_Ejercicio1_AFTER\obj\Debug\net8.0\ref\LSP_Ejercicio1_AFTER.dll

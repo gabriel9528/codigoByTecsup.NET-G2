@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Bird.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Bird.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Bird.cs",
+              "RelativeToolTip": "LSP_Ejercicio2_Before\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:48:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Dog.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Dog.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Dog.cs",
+              "RelativeToolTip": "LSP_Ejercicio2_Before\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:44:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Animal.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Animal.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Animal.cs",
+              "RelativeToolTip": "LSP_Ejercicio2_Before\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:39:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Program.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Program.cs",
+              "RelativeToolTip": "LSP_Ejercicio2_Before\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:38:22.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

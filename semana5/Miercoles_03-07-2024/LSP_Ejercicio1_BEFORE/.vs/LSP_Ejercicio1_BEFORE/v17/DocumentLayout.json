@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_before\\lsp_ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|solutionrelative:lsp_ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_before\\lsp_ejercicio1_before\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|solutionrelative:lsp_ejercicio1_before\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_before\\lsp_ejercicio1_before\\footbalplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|solutionrelative:lsp_ejercicio1_before\\footbalplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_before\\lsp_ejercicio1_before\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|solutionrelative:lsp_ejercicio1_before\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_before\\lsp_ejercicio1_before\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|solutionrelative:lsp_ejercicio1_before\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_before\\lsp_ejercicio1_before\\playercategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049FDBDB-3A73-4E39-8734-261C0DD76EC2}|LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE.csproj|solutionrelative:lsp_ejercicio1_before\\playercategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TennisPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\TennisPlayer.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio1_BEFORE\\TennisPlayer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\TennisPlayer.cs",
+              "RelativeToolTip": "LSP_Ejercicio1_BEFORE\\TennisPlayer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:32:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootbalPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\FootbalPlayer.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio1_BEFORE\\FootbalPlayer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\FootbalPlayer.cs",
+              "RelativeToolTip": "LSP_Ejercicio1_BEFORE\\FootbalPlayer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:31:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\Team.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio1_BEFORE\\Team.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\Team.cs",
+              "RelativeToolTip": "LSP_Ejercicio1_BEFORE\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:27:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\PlayerCategoria.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio1_BEFORE\\PlayerCategoria.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\PlayerCategoria.cs",
+              "RelativeToolTip": "LSP_Ejercicio1_BEFORE\\PlayerCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:26:06.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\Player.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio1_BEFORE\\Player.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\Player.cs",
+              "RelativeToolTip": "LSP_Ejercicio1_BEFORE\\Player.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:24:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\Program.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio1_BEFORE\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_BEFORE\\LSP_Ejercicio1_BEFORE\\Program.cs",
+              "RelativeToolTip": "LSP_Ejercicio1_BEFORE\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:24:20.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
