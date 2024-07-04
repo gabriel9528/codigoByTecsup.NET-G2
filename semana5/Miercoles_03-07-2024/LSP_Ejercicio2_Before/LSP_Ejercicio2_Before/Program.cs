@@ -6,10 +6,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Animal animal = new Dog();
-        animal.Noise = "birdddddddd";
+        IAnimal animal = new Dog();
+        animal.Noise = "guguagua";
         animal.MakeNoise();
-        animal.Fly();
+        //animal.Fly();
         Console.ReadLine();
     }
 }

@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\icanfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\icanfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio2_before\\lsp_ejercicio2_before\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09DCCFB-7793-4FE5-ADC6-7EA6A3DBAC6C}|LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before.csproj|solutionrelative:lsp_ejercicio2_before\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +42,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICanFly.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\ICanFly.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\ICanFly.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\ICanFly.cs",
+              "RelativeToolTip": "LSP_Ejercicio2_Before\\ICanFly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:04:43.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\IAnimal.cs",
+              "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\IAnimal.cs",
+              "RelativeToolTip": "LSP_Ejercicio2_Before\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:02:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Bird.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Bird.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Bird.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Bird.cs",
               "RelativeToolTip": "LSP_Ejercicio2_Before\\Bird.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T01:48:55.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Dog.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Dog.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Dog.cs",
               "RelativeToolTip": "LSP_Ejercicio2_Before\\Dog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T01:44:43.319Z",
               "EditorCaption": ""
@@ -66,7 +100,7 @@
               "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Animal.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Animal.cs",
               "RelativeToolTip": "LSP_Ejercicio2_Before\\Animal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T01:39:06.109Z",
               "EditorCaption": ""
@@ -79,7 +113,7 @@
               "RelativeDocumentMoniker": "LSP_Ejercicio2_Before\\Program.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio2_Before\\LSP_Ejercicio2_Before\\Program.cs",
               "RelativeToolTip": "LSP_Ejercicio2_Before\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T01:38:22.991Z",
               "EditorCaption": ""

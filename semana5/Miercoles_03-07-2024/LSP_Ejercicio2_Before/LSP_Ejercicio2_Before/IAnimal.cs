@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace LSP_Ejercicio2_Before
 {
-    public class Bird : Animal, ICanFly
+    public interface IAnimal
     {
-        public void Fly()
-        {
-            Console.WriteLine("Puedo volar");
-        }
+        public string Noise { get; set; }
+        void MakeNoise();
     }
 }

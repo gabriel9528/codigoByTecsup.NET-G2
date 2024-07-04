@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LSP_Ejercicio2_Before")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d172531ebbb450500b7851ae289a7f0eb7a653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970672fe11693a48d5ab49081a5c21d93b2f824c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LSP_Ejercicio2_Before")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LSP_Ejercicio2_Before")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
