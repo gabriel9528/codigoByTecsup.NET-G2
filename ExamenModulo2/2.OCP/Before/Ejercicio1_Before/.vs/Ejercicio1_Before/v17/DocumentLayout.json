@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\membresiatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\membresiatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\AccountService.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Before\\AccountService.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\AccountService.cs",
+              "RelativeToolTip": "Ejercicio1_Before\\AccountService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:30:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Membership.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Before\\Membership.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Membership.cs",
+              "RelativeToolTip": "Ejercicio1_Before\\Membership.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:29:17.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembresiaType.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\MembresiaType.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Before\\MembresiaType.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\MembresiaType.cs",
+              "RelativeToolTip": "Ejercicio1_Before\\MembresiaType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:27:32.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Person.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Before\\Person.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Person.cs",
+              "RelativeToolTip": "Ejercicio1_Before\\Person.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:26:50.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Before\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_Before\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:25:04.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

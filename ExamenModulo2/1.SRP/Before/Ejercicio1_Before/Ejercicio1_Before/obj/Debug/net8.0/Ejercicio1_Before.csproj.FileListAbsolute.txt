@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\bin\Debug\net8.0\Ejercicio1_Before.exe
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\bin\Debug\net8.0\Ejercicio1_Before.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\bin\Debug\net8.0\Ejercicio1_Before.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\bin\Debug\net8.0\Ejercicio1_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\bin\Debug\net8.0\Ejercicio1_Before.pdb
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\refint\Ejercicio1_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.pdb
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\Ejercicio1_Before.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\ExamenModulo2\1.SRP\Before\Ejercicio1_Before\Ejercicio1_Before\obj\Debug\net8.0\ref\Ejercicio1_Before.dll
