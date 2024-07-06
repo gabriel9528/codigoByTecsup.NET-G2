@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\bin\Debug\net8.0\DIP_Ejercicio1_After.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\bin\Debug\net8.0\DIP_Ejercicio1_After.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\bin\Debug\net8.0\DIP_Ejercicio1_After.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\bin\Debug\net8.0\DIP_Ejercicio1_After.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\bin\Debug\net8.0\DIP_Ejercicio1_After.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\refint\DIP_Ejercicio1_After.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\DIP_Ejercicio1_After.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana5\Viernes_05-07-2024\DIP_Ejercicio1_After\DIP_Ejercicio1_After\obj\Debug\net8.0\ref\DIP_Ejercicio1_After.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DIP_Ejercicio1_Before/1.0.0": {
+        "runtime": {
+          "DIP_Ejercicio1_Before.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIP_Ejercicio1_Before/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
