@@ -8,6 +8,10 @@ namespace Ejercicio1_Before
 {
     public class FullTime : Employee
     {
+        public FullTime()
+        {
+            ContractTypee = ContractType.Planilla;
+        }
         public string GetSalarioFijo()
         {
             string salario = "";

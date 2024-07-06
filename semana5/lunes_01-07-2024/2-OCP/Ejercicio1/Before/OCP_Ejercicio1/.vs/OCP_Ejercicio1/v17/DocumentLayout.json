@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\2-OCP\\Ejercicio1\\Before\\OCP_Ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\lunes_01-07-2024\\2-ocp\\ejercicio1\\before\\ocp_ejercicio1\\ocp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|solutionrelative:ocp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\lunes_01-07-2024\\2-ocp\\ejercicio1\\before\\ocp_ejercicio1\\ocp_ejercicio1\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|solutionrelative:ocp_ejercicio1\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\lunes_01-07-2024\\2-ocp\\ejercicio1\\before\\ocp_ejercicio1\\ocp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|solutionrelative:ocp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4440CACA-61FE-4C73-8B2C-61B116E411B6}|OCP_Ejercicio1\\OCP_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\lunes_01-07-2024\\2-ocp\\ejercicio1\\before\\ocp_ejercicio1\\ocp_ejercicio1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,18 +46,17 @@
               "RelativeToolTip": "OCP_Ejercicio1\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T03:16:23.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T03:16:23.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\2-OCP\\Ejercicio1\\Before\\OCP_Ejercicio1\\OCP_Ejercicio1\\AccountService.cs",
               "RelativeDocumentMoniker": "OCP_Ejercicio1\\AccountService.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\2-OCP\\Ejercicio1\\Before\\OCP_Ejercicio1\\OCP_Ejercicio1\\AccountService.cs",
               "RelativeToolTip": "OCP_Ejercicio1\\AccountService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAAANAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T02:53:47.97Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "OCP_Ejercicio1\\Staff.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T02:52:45.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T02:52:45.936Z"
             },
             {
               "$type": "Document",
@@ -85,12 +83,11 @@
               "RelativeToolTip": "OCP_Ejercicio1\\Person.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAuwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T02:51:45.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T02:51:45.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\2-OCP\\Ejercicio1\\Before\\OCP_Ejercicio1\\OCP_Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "OCP_Ejercicio1\\Program.cs",

@@ -11,7 +11,7 @@ namespace Ejercicio1_Before
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public Department Department { get; set; }
-        public ContractType ContractType { get; set; }
+        public ContractType ContractTypee { get; set; }
 
         public string GetDepartment() => Department.Name;
 
@@ -22,7 +22,7 @@ namespace Ejercicio1_Before
 
         public virtual void SetContractType(ContractType contractType)
         {
-            ContractType = contractType;
+            ContractTypee = contractType;
         }
     }
 }

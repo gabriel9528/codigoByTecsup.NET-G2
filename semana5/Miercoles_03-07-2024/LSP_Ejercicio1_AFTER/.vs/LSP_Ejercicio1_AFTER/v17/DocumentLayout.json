@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\iplayerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\iplayerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\footbalplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\footbalplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|solutionrelative:lsp_ejercicio1_after\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB59F0DD-1A6B-4D42-B4DD-0FF9056544CE}|LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\miercoles_03-07-2024\\lsp_ejercicio1_after\\lsp_ejercicio1_after\\playercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\Player.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio1_AFTER\\Player.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FootbalPlayer.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\FootbalPlayer.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio1_AFTER\\FootbalPlayer.cs",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\Team.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio1_AFTER\\Team.cs",
@@ -102,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IPlayerTeam.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\IPlayerTeam.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio1_AFTER\\IPlayerTeam.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\IPlayerTeam.cs",
               "RelativeToolTip": "LSP_Ejercicio1_AFTER\\IPlayerTeam.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T00:52:03.29Z",
               "EditorCaption": ""
@@ -123,12 +123,11 @@
               "RelativeToolTip": "LSP_Ejercicio1_AFTER\\PlayerCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:51:11.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T00:51:11.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IPlayer.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\IPlayer.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio1_AFTER\\IPlayer.cs",
@@ -136,12 +135,11 @@
               "RelativeToolTip": "LSP_Ejercicio1_AFTER\\IPlayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:49:56.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T00:49:56.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\Miercoles_03-07-2024\\LSP_Ejercicio1_AFTER\\LSP_Ejercicio1_AFTER\\Program.cs",
               "RelativeDocumentMoniker": "LSP_Ejercicio1_AFTER\\Program.cs",

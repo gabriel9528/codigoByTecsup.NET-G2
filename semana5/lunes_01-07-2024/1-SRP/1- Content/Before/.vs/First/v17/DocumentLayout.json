@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\1-SRP\\1-SRP\\1- Content\\Before\\",
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\1-SRP\\1- Content\\Before\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE2FE93F-5425-48CB-8FF2-3EC71FB20D83}|First\\First.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\1-srp\\1-srp\\1- content\\before\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE2FE93F-5425-48CB-8FF2-3EC71FB20D83}|First\\First.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana5\\lunes_01-07-2024\\1-srp\\1- content\\before\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE2FE93F-5425-48CB-8FF2-3EC71FB20D83}|First\\First.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\1-SRP\\1-SRP\\1- Content\\Before\\First\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\1-SRP\\1- Content\\Before\\First\\Program.cs",
               "RelativeDocumentMoniker": "First\\Program.cs",
-              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\1-SRP\\1-SRP\\1- Content\\Before\\First\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana5\\lunes_01-07-2024\\1-SRP\\1- Content\\Before\\First\\Program.cs",
               "RelativeToolTip": "First\\Program.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAADUAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T13:14:38.399Z",
               "EditorCaption": ""

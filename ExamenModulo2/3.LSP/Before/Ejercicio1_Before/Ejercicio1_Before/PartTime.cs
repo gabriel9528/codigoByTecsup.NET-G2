@@ -10,7 +10,7 @@ namespace Ejercicio1_Before
     {
         public override void AssignDepartment(Department department)
         {
-            throw new NotImplementedException("Soy un practicante y no necesito un departamento específico.");
+            throw new NotImplementedException("Soy un partTime y no necesito un departamento específico.");
         }
     }
 }

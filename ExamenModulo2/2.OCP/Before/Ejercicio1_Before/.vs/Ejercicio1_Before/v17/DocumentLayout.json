@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\membresiatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\membresiatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\membresiatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\membresiatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\examenmodulo2\\2.ocp\\before\\ejercicio1_before\\ejercicio1_before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF9FAEB-2818-4BEE-A3C0-BB4F8AEF4095}|Ejercicio1_Before\\Ejercicio1_Before.csproj|solutionrelative:ejercicio1_before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\AccountService.cs",
               "RelativeDocumentMoniker": "Ejercicio1_Before\\AccountService.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\AccountService.cs",
               "RelativeToolTip": "Ejercicio1_Before\\AccountService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:30:47.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Membership.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Membership.cs",
               "RelativeDocumentMoniker": "Ejercicio1_Before\\Membership.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Membership.cs",
               "RelativeToolTip": "Ejercicio1_Before\\Membership.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowBAAAAAcAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:29:17.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MembresiaType.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\MembresiaType.cs",
               "RelativeDocumentMoniker": "Ejercicio1_Before\\MembresiaType.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\MembresiaType.cs",
               "RelativeToolTip": "Ejercicio1_Before\\MembresiaType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:27:32.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Person.cs",
               "RelativeDocumentMoniker": "Ejercicio1_Before\\Person.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Person.cs",
               "RelativeToolTip": "Ejercicio1_Before\\Person.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAcAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:26:50.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio1_Before\\Program.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\ExamenModulo2\\2.OCP\\Before\\Ejercicio1_Before\\Ejercicio1_Before\\Program.cs",
               "RelativeToolTip": "Ejercicio1_Before\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowBgAAAA9AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:25:04.365Z",
               "EditorCaption": ""
