@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\bin\Debug\net8.0-windows\ControlVentas.exe
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\bin\Debug\net8.0-windows\ControlVentas.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\bin\Debug\net8.0-windows\ControlVentas.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\bin\Debug\net8.0-windows\ControlVentas.dll
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\bin\Debug\net8.0-windows\ControlVentas.pdb
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.Form1.resources
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.dll
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\refint\ControlVentas.dll
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.pdb
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ControlVentas.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\Semana6\Miercoles_10_07_2024\ControlVentas\ControlVentas\obj\Debug\net8.0-windows\ref\ControlVentas.dll

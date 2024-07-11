@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B6ECB-FC0C-4D51-840D-8C7E57814E29}|ControlVentas\\ControlVentas.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\controlventas\\controlventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF2B6ECB-FC0C-4D51-840D-8C7E57814E29}|ControlVentas\\ControlVentas.csproj|solutionrelative:controlventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B6ECB-FC0C-4D51-840D-8C7E57814E29}|ControlVentas\\ControlVentas.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\controlventas\\controlventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B6ECB-FC0C-4D51-840D-8C7E57814E29}|ControlVentas\\ControlVentas.csproj|solutionrelative:controlventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2B6ECB-FC0C-4D51-840D-8C7E57814E29}|ControlVentas\\ControlVentas.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\controlventas\\controlventas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2B6ECB-FC0C-4D51-840D-8C7E57814E29}|ControlVentas\\ControlVentas.csproj|solutionrelative:controlventas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\ControlVentas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ControlVentas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\ControlVentas\\Form1.Designer.cs",
+              "RelativeToolTip": "ControlVentas\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:30:15.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\ControlVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\ControlVentas\\Form1.cs",
+              "RelativeToolTip": "ControlVentas\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwFsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:24:52.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\ControlVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\ControlVentas\\ControlVentas\\Form1.cs [Design]",
+              "RelativeToolTip": "ControlVentas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:47:57.251Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

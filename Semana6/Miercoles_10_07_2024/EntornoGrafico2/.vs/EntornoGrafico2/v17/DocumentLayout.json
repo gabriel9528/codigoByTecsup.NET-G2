@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\pantallatres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\pantallatres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\pantallados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\pantallados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\pantallatres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\pantallatres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\pantallados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\pantallados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\controladorpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\controladorpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana6\\miercoles_10_07_2024\\entornografico2\\entornografico2\\pantallados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366CF082-75C6-4D24-89FA-34AF3329F968}|EntornoGrafico2\\EntornoGrafico2.csproj|solutionrelative:entornografico2\\pantallados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PantallaTres.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaTres.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\PantallaTres.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaTres.cs",
+              "RelativeToolTip": "EntornoGrafico2\\PantallaTres.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:06:07.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PantallaDos.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaDos.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\PantallaDos.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaDos.cs",
+              "RelativeToolTip": "EntornoGrafico2\\PantallaDos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:00:32.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\Form1.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\Form1.cs",
+              "RelativeToolTip": "EntornoGrafico2\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAqwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:43:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControladorPersona.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\ControladorPersona.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\ControladorPersona.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\ControladorPersona.cs",
+              "RelativeToolTip": "EntornoGrafico2\\ControladorPersona.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:35:50.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\Persona.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\Persona.cs",
+              "RelativeToolTip": "EntornoGrafico2\\Persona.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:30:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PantallaTres.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaTres.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\PantallaTres.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaTres.cs [Design]",
+              "RelativeToolTip": "EntornoGrafico2\\PantallaTres.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:26:09.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PantallaDos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaDos.Designer.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\PantallaDos.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaDos.Designer.cs",
+              "RelativeToolTip": "EntornoGrafico2\\PantallaDos.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:17:09.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PantallaDos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaDos.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\PantallaDos.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\PantallaDos.cs [Design]",
+              "RelativeToolTip": "EntornoGrafico2\\PantallaDos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:16:18.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\Form1.cs",
+              "RelativeDocumentMoniker": "EntornoGrafico2\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Semana6\\Miercoles_10_07_2024\\EntornoGrafico2\\EntornoGrafico2\\Form1.cs [Design]",
+              "RelativeToolTip": "EntornoGrafico2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:06:43.378Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
