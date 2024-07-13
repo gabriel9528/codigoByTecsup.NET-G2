@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\bin\Debug\DataNavigator1.exe.config
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\bin\Debug\DataNavigator1.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\bin\Debug\DataNavigator1.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.csproj.AssemblyReference.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.Form1.resources
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.Properties.Resources.resources
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataNavigator1\DataNavigator1\obj\Debug\DataNavigator1.pdb

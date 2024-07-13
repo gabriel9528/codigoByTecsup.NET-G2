@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\bin\Debug\net8.0-windows\NotifyPropertyChangedd.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\bin\Debug\net8.0-windows\NotifyPropertyChangedd.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\bin\Debug\net8.0-windows\NotifyPropertyChangedd.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\bin\Debug\net8.0-windows\NotifyPropertyChangedd.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\bin\Debug\net8.0-windows\NotifyPropertyChangedd.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.Form1.resources
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\refint\NotifyPropertyChangedd.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\NotifyPropertyChangedd.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\NotifyPropertyChangedd\NotifyPropertyChangedd\obj\Debug\net8.0-windows\ref\NotifyPropertyChangedd.dll

@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\bin\Debug\net8.0-windows\DataBinding3.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\bin\Debug\net8.0-windows\DataBinding3.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\bin\Debug\net8.0-windows\DataBinding3.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\bin\Debug\net8.0-windows\DataBinding3.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\bin\Debug\net8.0-windows\DataBinding3.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.Form1.resources
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\refint\DataBinding3.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\DataBinding3.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana6\Viernes_12_07_2024\DataBinding3\DataBinding3\obj\Debug\net8.0-windows\ref\DataBinding3.dll
