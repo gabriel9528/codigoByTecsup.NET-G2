@@ -1,0 +1,54 @@
+﻿<Window x:Class="Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Content="butonn 1" Grid.Column="0" Grid.Row="0"></Button>
+        <Button Content="butonn 2" Grid.Column="1" Grid.Row="0"></Button>
+        <Button Content="butonn 3" Grid.Row="0" Grid.Column="2"></Button>
+        <Button Content="butonn 4" Grid.Row="0" Grid.Column="3"></Button>
+
+        <Button Content="butonn 5" Grid.Row="1" Grid.Column="0"></Button>
+        <Button Content="butonn 6" Grid.Row="1" Grid.Column="1"></Button>
+        <Button Content="butonn 7" Grid.Row="1" Grid.Column="2"></Button>
+        <Button Content="butonn 8" Grid.Row="1" Grid.Column="3"></Button>
+
+        <Button Content="butonn 9" Grid.Row="2" Grid.Column="0"></Button>
+        <Button Content="butonn 10" Grid.Row="2" Grid.Column="1"></Button>
+        <Button Content="butonn 11" Grid.Row="2" Grid.Column="2"></Button>
+        <Button Content="butonn 12" Grid.Row="2" Grid.Column="3" Grid.RowSpan="2"></Button>
+
+        <Grid Grid.Row="3" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0">Button13-A</Button>
+            <Button Grid.Column="1">Button13-B</Button>
+            <Button Grid.Column="2">Button13-C</Button>
+            <Button Grid.Column="3">Button13-D</Button>
+        </Grid>
+        <Button Content="Button14" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2"></Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,47 @@
+﻿<Window x:Class="WPF_RadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_RadioButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="SEMAFORO" FontSize="50" TextAlignment="Center" Foreground="Blue"></TextBlock> 
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <RadioButton Margin="50, 20, 100, 80" x:Name="radioButtonRojo" Click="radioButtonRojo_Click">
+                        <TextBox Text="Rojo"></TextBox>
+                    </RadioButton>
+                    <RadioButton Margin="50, 20, 100, 80" x:Name="radioButtonAmarillo" Click="radioButtonAmarillo_Click">
+                        <TextBox Text="Amarillo"></TextBox>
+                    </RadioButton>
+                    <RadioButton Margin="50, 20, 100, 80" x:Name="radioButtonVerde" Click="radioButtonVerde_Click">
+                        <TextBox Text="Verde"></TextBox>
+                    </RadioButton>
+                </StackPanel>
+
+                <Grid Grid.Column="1">
+                    <Image Source="C:\DiskD\CodigoTecsup\C#\WPF\WPF\2.Elementos\7.ProyectRadioButton-Image\semaforo.jpg" Height="300" Width="300"/>
+                    <Ellipse Fill="Red" Name="elipseRoja" Visibility="Hidden" Margin="175,62,170,239"></Ellipse>
+                    <Ellipse Fill="Yellow" x:Name="elipseAmarilla" Visibility="Hidden" Margin="175,116,170,185"/>
+                    <Ellipse Fill="Green" x:Name="elipseVerde" Visibility="Hidden" Margin="174,172,171,129"/>
+                </Grid>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
