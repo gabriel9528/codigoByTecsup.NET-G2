@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHaley_MVVM", "WpfHaley_MVVM\WpfHaley_MVVM.csproj", "{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9BE983-2C80-4468-BAF9-32E1A1DFD6A6}
+	EndGlobalSection
+EndGlobal

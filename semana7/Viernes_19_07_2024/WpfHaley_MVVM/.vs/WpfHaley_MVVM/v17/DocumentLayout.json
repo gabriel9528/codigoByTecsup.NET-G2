@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana7\\viernes_19_07_2024\\wpfhaley_mvvm\\wpfhaley_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|solutionrelative:wpfhaley_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana7\\viernes_19_07_2024\\wpfhaley_mvvm\\wpfhaley_mvvm\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|solutionrelative:wpfhaley_mvvm\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana7\\viernes_19_07_2024\\wpfhaley_mvvm\\wpfhaley_mvvm\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|solutionrelative:wpfhaley_mvvm\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana7\\viernes_19_07_2024\\wpfhaley_mvvm\\wpfhaley_mvvm\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|solutionrelative:wpfhaley_mvvm\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana7\\viernes_19_07_2024\\wpfhaley_mvvm\\wpfhaley_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79875BE7-2593-4B2C-B47D-C4D4C8A39C7C}|WpfHaley_MVVM\\WpfHaley_MVVM.csproj|solutionrelative:wpfhaley_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "WpfHaley_MVVM\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\Models\\PersonModel.cs",
+              "RelativeToolTip": "WpfHaley_MVVM\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:42:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfHaley_MVVM\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WpfHaley_MVVM\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T01:41:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfHaley_MVVM\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WpfHaley_MVVM\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwCoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:49:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfHaley_MVVM\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfHaley_MVVM\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:41:09.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\App.xaml",
+              "RelativeDocumentMoniker": "WpfHaley_MVVM\\App.xaml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana7\\Viernes_19_07_2024\\WpfHaley_MVVM\\WpfHaley_MVVM\\App.xaml",
+              "RelativeToolTip": "WpfHaley_MVVM\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T01:44:11.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
