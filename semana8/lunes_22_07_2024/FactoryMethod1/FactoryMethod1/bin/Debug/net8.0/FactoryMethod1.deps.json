@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FactoryMethod1/1.0.0": {
+        "runtime": {
+          "FactoryMethod1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethod1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

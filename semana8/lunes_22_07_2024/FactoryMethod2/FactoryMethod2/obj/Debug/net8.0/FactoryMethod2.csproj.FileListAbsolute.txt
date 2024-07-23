@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\bin\Debug\net8.0\FactoryMethod2.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\bin\Debug\net8.0\FactoryMethod2.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\bin\Debug\net8.0\FactoryMethod2.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\bin\Debug\net8.0\FactoryMethod2.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\bin\Debug\net8.0\FactoryMethod2.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\refint\FactoryMethod2.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\FactoryMethod2.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\lunes_22_07_2024\FactoryMethod2\FactoryMethod2\obj\Debug\net8.0\ref\FactoryMethod2.dll
