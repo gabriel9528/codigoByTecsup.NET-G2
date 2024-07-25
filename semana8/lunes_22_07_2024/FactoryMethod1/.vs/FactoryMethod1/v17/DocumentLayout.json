@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|solutionrelative:factorymethod1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana8\\lunes_22_07_2024\\factorymethod1\\factorymethod1\\usuariofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana8\\lunes_22_07_2024\\FactoryMethod1\\factorymethod1\\usuariofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|solutionrelative:factorymethod1\\usuariofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana8\\lunes_22_07_2024\\factorymethod1\\factorymethod1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana8\\lunes_22_07_2024\\FactoryMethod1\\factorymethod1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0070B3BE-2407-403D-A758-A4B782EA3562}|FactoryMethod1\\FactoryMethod1.csproj|solutionrelative:factorymethod1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "FactoryMethod1\\UsuarioFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T02:10:14.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T02:10:14.709Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "FactoryMethod1\\Usuario.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAkwBsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T01:53:02.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T01:53:02.756Z"
             },
             {
               "$type": "Document",
