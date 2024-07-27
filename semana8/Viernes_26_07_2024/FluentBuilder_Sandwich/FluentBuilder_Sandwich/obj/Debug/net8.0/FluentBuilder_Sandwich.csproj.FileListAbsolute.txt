@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\bin\Debug\net8.0\FluentBuilder_Sandwich.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\bin\Debug\net8.0\FluentBuilder_Sandwich.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\bin\Debug\net8.0\FluentBuilder_Sandwich.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\bin\Debug\net8.0\FluentBuilder_Sandwich.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\bin\Debug\net8.0\FluentBuilder_Sandwich.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\refint\FluentBuilder_Sandwich.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\FluentBuilder_Sandwich.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_Sandwich\FluentBuilder_Sandwich\obj\Debug\net8.0\ref\FluentBuilder_Sandwich.dll

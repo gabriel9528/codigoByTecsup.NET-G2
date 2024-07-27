@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\bin\Debug\net8.0\Builder_Before.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\bin\Debug\net8.0\Builder_Before.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\bin\Debug\net8.0\Builder_Before.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\bin\Debug\net8.0\Builder_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\bin\Debug\net8.0\Builder_Before.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\refint\Builder_Before.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\Builder_Before.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\Builder_Before\Builder_Before\obj\Debug\net8.0\ref\Builder_Before.dll
