@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\bin\Debug\net8.0\FluentBuilder_TestUnit.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\bin\Debug\net8.0\FluentBuilder_TestUnit.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\bin\Debug\net8.0\FluentBuilder_TestUnit.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\bin\Debug\net8.0\FluentBuilder_TestUnit.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\bin\Debug\net8.0\FluentBuilder_TestUnit.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\refint\FluentBuilder_TestUnit.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\FluentBuilder_TestUnit.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana8\Viernes_26_07_2024\FluentBuilder_TestUnit\FluentBuilder_TestUnit\obj\Debug\net8.0\ref\FluentBuilder_TestUnit.dll
