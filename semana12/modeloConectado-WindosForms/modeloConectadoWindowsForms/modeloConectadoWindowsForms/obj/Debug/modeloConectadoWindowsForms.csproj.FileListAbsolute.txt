@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\bin\Debug\modeloConectadoWindowsForms.exe.config
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\bin\Debug\modeloConectadoWindowsForms.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\bin\Debug\modeloConectadoWindowsForms.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.Form1.resources
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.Properties.Resources.resources
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana12\modeloConectado-WindosForms\modeloConectadoWindowsForms\modeloConectadoWindowsForms\obj\Debug\modeloConectadoWindowsForms.pdb
