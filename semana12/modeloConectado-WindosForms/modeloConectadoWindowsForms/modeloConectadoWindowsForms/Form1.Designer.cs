@@ -45,22 +45,22 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.textBoxNameUser = new System.Windows.Forms.TextBox();
-            this.textBoxAge = new System.Windows.Forms.TextBox();
-            this.textBoxAddress = new System.Windows.Forms.TextBox();
-            this.textBoxEmail = new System.Windows.Forms.TextBox();
-            this.comboBoxFlightNumberUsers = new System.Windows.Forms.ComboBox();
-            this.comboBoxUserGeneral = new System.Windows.Forms.ComboBox();
-            this.buttonAddUser = new System.Windows.Forms.Button();
-            this.buttonUpdateUser = new System.Windows.Forms.Button();
-            this.buttonDeleteUser = new System.Windows.Forms.Button();
-            this.dataGridViewUsers = new System.Windows.Forms.DataGridView();
             this.buttonRefreshUsers = new System.Windows.Forms.Button();
+            this.dataGridViewUsers = new System.Windows.Forms.DataGridView();
+            this.buttonDeleteUser = new System.Windows.Forms.Button();
+            this.buttonUpdateUser = new System.Windows.Forms.Button();
+            this.buttonAddUser = new System.Windows.Forms.Button();
+            this.comboBoxUserGeneral = new System.Windows.Forms.ComboBox();
+            this.comboBoxFlightNumberUsers = new System.Windows.Forms.ComboBox();
+            this.textBoxEmail = new System.Windows.Forms.TextBox();
+            this.textBoxAddress = new System.Windows.Forms.TextBox();
+            this.textBoxAge = new System.Windows.Forms.TextBox();
+            this.textBoxNameUser = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewFlight)).BeginInit();
@@ -125,8 +125,9 @@
             this.buttonDeleteFlight.Name = "buttonDeleteFlight";
             this.buttonDeleteFlight.Size = new System.Drawing.Size(107, 23);
             this.buttonDeleteFlight.TabIndex = 14;
-            this.buttonDeleteFlight.Text = "buttonDeleteFlight";
+            this.buttonDeleteFlight.Text = "Delete Flight";
             this.buttonDeleteFlight.UseVisualStyleBackColor = true;
+            this.buttonDeleteFlight.Click += new System.EventHandler(this.buttonDeleteFlight_Click);
             // 
             // buttonUpdateFlight
             // 
@@ -136,6 +137,7 @@
             this.buttonUpdateFlight.TabIndex = 13;
             this.buttonUpdateFlight.Text = "UpdateFlight";
             this.buttonUpdateFlight.UseVisualStyleBackColor = true;
+            this.buttonUpdateFlight.Click += new System.EventHandler(this.buttonUpdateFlight_Click);
             // 
             // buttonAddFlight
             // 
@@ -145,6 +147,7 @@
             this.buttonAddFlight.TabIndex = 12;
             this.buttonAddFlight.Text = "Add Flight";
             this.buttonAddFlight.UseVisualStyleBackColor = true;
+            this.buttonAddFlight.Click += new System.EventHandler(this.buttonAddFlight_Click);
             // 
             // comboBoxFlightGeneral
             // 
@@ -153,6 +156,7 @@
             this.comboBoxFlightGeneral.Name = "comboBoxFlightGeneral";
             this.comboBoxFlightGeneral.Size = new System.Drawing.Size(238, 21);
             this.comboBoxFlightGeneral.TabIndex = 11;
+            this.comboBoxFlightGeneral.SelectedIndexChanged += new System.EventHandler(this.comboBoxFlightGeneral_SelectedIndexChanged);
             // 
             // comboBoxAirPlaneType
             // 
@@ -161,6 +165,7 @@
             this.comboBoxAirPlaneType.Name = "comboBoxAirPlaneType";
             this.comboBoxAirPlaneType.Size = new System.Drawing.Size(162, 21);
             this.comboBoxAirPlaneType.TabIndex = 10;
+            this.comboBoxAirPlaneType.SelectedIndexChanged += new System.EventHandler(this.comboBoxAirPlaneType_SelectedIndexChanged);
             // 
             // textBoxFlightNumber
             // 
@@ -246,94 +251,40 @@
             this.tabPage2.UseVisualStyleBackColor = true;
             this.tabPage2.Click += new System.EventHandler(this.tabPage2_Click);
             // 
-            // label1
+            // buttonRefreshUsers
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(23, 33);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Name";
+            this.buttonRefreshUsers.Location = new System.Drawing.Point(525, 416);
+            this.buttonRefreshUsers.Name = "buttonRefreshUsers";
+            this.buttonRefreshUsers.Size = new System.Drawing.Size(93, 23);
+            this.buttonRefreshUsers.TabIndex = 16;
+            this.buttonRefreshUsers.Text = "Refresh Users";
+            this.buttonRefreshUsers.UseVisualStyleBackColor = true;
             // 
-            // label3
+            // dataGridViewUsers
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(23, 200);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(72, 13);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Flight Number";
+            this.dataGridViewUsers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewUsers.Location = new System.Drawing.Point(26, 238);
+            this.dataGridViewUsers.Name = "dataGridViewUsers";
+            this.dataGridViewUsers.Size = new System.Drawing.Size(592, 152);
+            this.dataGridViewUsers.TabIndex = 15;
             // 
-            // label7
+            // buttonDeleteUser
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(23, 157);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(26, 13);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "Age";
+            this.buttonDeleteUser.Location = new System.Drawing.Point(494, 188);
+            this.buttonDeleteUser.Name = "buttonDeleteUser";
+            this.buttonDeleteUser.Size = new System.Drawing.Size(124, 23);
+            this.buttonDeleteUser.TabIndex = 14;
+            this.buttonDeleteUser.Text = "Delete User";
+            this.buttonDeleteUser.UseVisualStyleBackColor = true;
             // 
-            // label8
+            // buttonUpdateUser
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(23, 118);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(45, 13);
-            this.label8.TabIndex = 3;
-            this.label8.Text = "Address";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(23, 75);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(32, 13);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "Email";
-            // 
-            // textBoxNameUser
-            // 
-            this.textBoxNameUser.Location = new System.Drawing.Point(122, 33);
-            this.textBoxNameUser.Name = "textBoxNameUser";
-            this.textBoxNameUser.Size = new System.Drawing.Size(163, 20);
-            this.textBoxNameUser.TabIndex = 5;
-            // 
-            // textBoxAge
-            // 
-            this.textBoxAge.Location = new System.Drawing.Point(122, 154);
-            this.textBoxAge.Name = "textBoxAge";
-            this.textBoxAge.Size = new System.Drawing.Size(163, 20);
-            this.textBoxAge.TabIndex = 6;
-            // 
-            // textBoxAddress
-            // 
-            this.textBoxAddress.Location = new System.Drawing.Point(122, 115);
-            this.textBoxAddress.Name = "textBoxAddress";
-            this.textBoxAddress.Size = new System.Drawing.Size(163, 20);
-            this.textBoxAddress.TabIndex = 7;
-            // 
-            // textBoxEmail
-            // 
-            this.textBoxEmail.Location = new System.Drawing.Point(122, 72);
-            this.textBoxEmail.Name = "textBoxEmail";
-            this.textBoxEmail.Size = new System.Drawing.Size(163, 20);
-            this.textBoxEmail.TabIndex = 8;
-            // 
-            // comboBoxFlightNumberUsers
-            // 
-            this.comboBoxFlightNumberUsers.FormattingEnabled = true;
-            this.comboBoxFlightNumberUsers.Location = new System.Drawing.Point(122, 191);
-            this.comboBoxFlightNumberUsers.Name = "comboBoxFlightNumberUsers";
-            this.comboBoxFlightNumberUsers.Size = new System.Drawing.Size(163, 21);
-            this.comboBoxFlightNumberUsers.TabIndex = 10;
-            // 
-            // comboBoxUserGeneral
-            // 
-            this.comboBoxUserGeneral.FormattingEnabled = true;
-            this.comboBoxUserGeneral.Location = new System.Drawing.Point(360, 110);
-            this.comboBoxUserGeneral.Name = "comboBoxUserGeneral";
-            this.comboBoxUserGeneral.Size = new System.Drawing.Size(258, 21);
-            this.comboBoxUserGeneral.TabIndex = 11;
+            this.buttonUpdateUser.Location = new System.Drawing.Point(360, 188);
+            this.buttonUpdateUser.Name = "buttonUpdateUser";
+            this.buttonUpdateUser.Size = new System.Drawing.Size(124, 23);
+            this.buttonUpdateUser.TabIndex = 13;
+            this.buttonUpdateUser.Text = "Update User";
+            this.buttonUpdateUser.UseVisualStyleBackColor = true;
             // 
             // buttonAddUser
             // 
@@ -345,40 +296,94 @@
             this.buttonAddUser.UseVisualStyleBackColor = true;
             this.buttonAddUser.Click += new System.EventHandler(this.buttonAddUser_Click);
             // 
-            // buttonUpdateUser
+            // comboBoxUserGeneral
             // 
-            this.buttonUpdateUser.Location = new System.Drawing.Point(360, 188);
-            this.buttonUpdateUser.Name = "buttonUpdateUser";
-            this.buttonUpdateUser.Size = new System.Drawing.Size(124, 23);
-            this.buttonUpdateUser.TabIndex = 13;
-            this.buttonUpdateUser.Text = "Update User";
-            this.buttonUpdateUser.UseVisualStyleBackColor = true;
+            this.comboBoxUserGeneral.FormattingEnabled = true;
+            this.comboBoxUserGeneral.Location = new System.Drawing.Point(360, 110);
+            this.comboBoxUserGeneral.Name = "comboBoxUserGeneral";
+            this.comboBoxUserGeneral.Size = new System.Drawing.Size(258, 21);
+            this.comboBoxUserGeneral.TabIndex = 11;
             // 
-            // buttonDeleteUser
+            // comboBoxFlightNumberUsers
             // 
-            this.buttonDeleteUser.Location = new System.Drawing.Point(494, 188);
-            this.buttonDeleteUser.Name = "buttonDeleteUser";
-            this.buttonDeleteUser.Size = new System.Drawing.Size(124, 23);
-            this.buttonDeleteUser.TabIndex = 14;
-            this.buttonDeleteUser.Text = "Delete User";
-            this.buttonDeleteUser.UseVisualStyleBackColor = true;
+            this.comboBoxFlightNumberUsers.FormattingEnabled = true;
+            this.comboBoxFlightNumberUsers.Location = new System.Drawing.Point(122, 191);
+            this.comboBoxFlightNumberUsers.Name = "comboBoxFlightNumberUsers";
+            this.comboBoxFlightNumberUsers.Size = new System.Drawing.Size(163, 21);
+            this.comboBoxFlightNumberUsers.TabIndex = 10;
             // 
-            // dataGridViewUsers
+            // textBoxEmail
             // 
-            this.dataGridViewUsers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewUsers.Location = new System.Drawing.Point(26, 238);
-            this.dataGridViewUsers.Name = "dataGridViewUsers";
-            this.dataGridViewUsers.Size = new System.Drawing.Size(592, 152);
-            this.dataGridViewUsers.TabIndex = 15;
+            this.textBoxEmail.Location = new System.Drawing.Point(122, 72);
+            this.textBoxEmail.Name = "textBoxEmail";
+            this.textBoxEmail.Size = new System.Drawing.Size(163, 20);
+            this.textBoxEmail.TabIndex = 8;
             // 
-            // buttonRefreshUsers
+            // textBoxAddress
             // 
-            this.buttonRefreshUsers.Location = new System.Drawing.Point(525, 416);
-            this.buttonRefreshUsers.Name = "buttonRefreshUsers";
-            this.buttonRefreshUsers.Size = new System.Drawing.Size(93, 23);
-            this.buttonRefreshUsers.TabIndex = 16;
-            this.buttonRefreshUsers.Text = "Refresh Users";
-            this.buttonRefreshUsers.UseVisualStyleBackColor = true;
+            this.textBoxAddress.Location = new System.Drawing.Point(122, 115);
+            this.textBoxAddress.Name = "textBoxAddress";
+            this.textBoxAddress.Size = new System.Drawing.Size(163, 20);
+            this.textBoxAddress.TabIndex = 7;
+            // 
+            // textBoxAge
+            // 
+            this.textBoxAge.Location = new System.Drawing.Point(122, 154);
+            this.textBoxAge.Name = "textBoxAge";
+            this.textBoxAge.Size = new System.Drawing.Size(163, 20);
+            this.textBoxAge.TabIndex = 6;
+            // 
+            // textBoxNameUser
+            // 
+            this.textBoxNameUser.Location = new System.Drawing.Point(122, 33);
+            this.textBoxNameUser.Name = "textBoxNameUser";
+            this.textBoxNameUser.Size = new System.Drawing.Size(163, 20);
+            this.textBoxNameUser.TabIndex = 5;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(23, 75);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(32, 13);
+            this.label9.TabIndex = 4;
+            this.label9.Text = "Email";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(23, 118);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(45, 13);
+            this.label8.TabIndex = 3;
+            this.label8.Text = "Address";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(23, 157);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(26, 13);
+            this.label7.TabIndex = 2;
+            this.label7.Text = "Age";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(23, 200);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(72, 13);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Flight Number";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(23, 33);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Name";
             // 
             // Form1
             // 
