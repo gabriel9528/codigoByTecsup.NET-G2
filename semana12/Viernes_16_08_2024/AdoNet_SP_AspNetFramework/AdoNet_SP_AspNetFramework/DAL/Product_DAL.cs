@@ -45,5 +45,35 @@ namespace AdoNet_SP_AspNetFramework.DAL
             }
             return listProducts;
         }
+
+        //InsertProduct
+        public bool InsertProduct(ProductModels product)
+        {
+            int id = 0;
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand sqlCommand = new SqlCommand("sp_InsertProducts", connection);
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+
+                sqlCommand.Parameters.AddWithValue("@ProductName", product.ProductName);
+                sqlCommand.Parameters.AddWithValue("@Price", product.Price);
+                sqlCommand.Parameters.AddWithValue("@Quantity", product.Quantity);
+                sqlCommand.Parameters.AddWithValue("@Remarks", product.Remarks);
+
+                connection.Open();
+                id = sqlCommand.ExecuteNonQuery();
+                connection.Close();
+
+                if(id > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+
+        }
     }
 }

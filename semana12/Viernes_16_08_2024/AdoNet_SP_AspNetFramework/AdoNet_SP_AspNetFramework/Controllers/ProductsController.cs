@@ -1,4 +1,5 @@
 ﻿using AdoNet_SP_AspNetFramework.DAL;
+using AdoNet_SP_AspNetFramework.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,11 +36,29 @@ namespace AdoNet_SP_AspNetFramework.Controllers
 
         // POST: Products/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create(ProductModels product)
         {
             try
             {
                 // TODO: Add insert logic here
+
+                bool isInserted = false;
+                if (ModelState.IsValid)
+                {
+                    isInserted = product_DAL.InsertProduct(product);
+                    if (isInserted)
+                    {
+                        TempData["successMessage"] = "Producto insertado correctamente";
+                    }
+                    else
+                    {
+                        TempData["errorMessage"] = "No se pudo completar la insercion";
+                    }
+                }
+                else
+                {
+                    TempData["errorMessage"] = "No se pudo completar la insercion";
+                }
 
                 return RedirectToAction("Index");
             }
