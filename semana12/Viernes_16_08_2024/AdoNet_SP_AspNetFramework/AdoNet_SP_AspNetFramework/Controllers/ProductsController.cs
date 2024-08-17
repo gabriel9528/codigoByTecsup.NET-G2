@@ -14,6 +14,10 @@ namespace AdoNet_SP_AspNetFramework.Controllers
         public ActionResult Index()
         {
             var productList = product_DAL.GetAllProducts();
+            if(productList.Count == 0)
+            {
+                TempData["infoMessage"] = "Productos no encontrados";
+            }
             return View(productList);
         }
 
