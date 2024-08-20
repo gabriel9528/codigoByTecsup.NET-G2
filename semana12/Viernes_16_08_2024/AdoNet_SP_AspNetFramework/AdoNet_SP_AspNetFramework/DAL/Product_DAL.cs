@@ -75,5 +75,69 @@ namespace AdoNet_SP_AspNetFramework.DAL
             }
 
         }
+
+        //GetProductById
+        public ProductModels GetProductById(int id)
+        {
+            ProductModels product = new ProductModels();
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand sqlCommand = new SqlCommand("sp_GetProductByIds", connection);
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+
+                sqlCommand.Parameters.AddWithValue("@ProductId", id);
+
+                SqlDataAdapter adapter = new SqlDataAdapter(sqlCommand);
+                DataTable dtProduct = new DataTable();
+
+                connection.Open();
+                adapter.Fill(dtProduct);
+                connection.Close();
+
+                foreach(DataRow item in dtProduct.Rows)
+                {
+                    product.ProductId = Convert.ToInt32(item["ProductId"]);
+                    product.ProductName = item["Product"].ToString();
+                    product.Price = Convert.ToDecimal(item["Price"]);
+                    product.Quantity = Convert.ToInt32(item["Quantity"]);
+                    product.Remarks = item["Remarks"].ToString();
+                }
+            }
+
+            return product;
+        }
+
+        //UpdateProduct
+        public bool UpdateProduct(ProductModels product)
+        {
+            int id = 0;
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand sqlCommand = new SqlCommand("sp_UpdateProducts", connection);
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+
+                sqlCommand.Parameters.AddWithValue("@ProductId", product.ProductId);
+                sqlCommand.Parameters.AddWithValue("@ProductName", product.ProductName);
+                sqlCommand.Parameters.AddWithValue("@Price", product.Price);
+                sqlCommand.Parameters.AddWithValue("@Quantity", product.Quantity);
+                sqlCommand.Parameters.AddWithValue("@Remarks", product.Remarks);
+
+                connection.Open();
+                id = sqlCommand.ExecuteNonQuery();
+                connection.Close();
+
+                if (id > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+            }
+        }
+
+        
     }
 }

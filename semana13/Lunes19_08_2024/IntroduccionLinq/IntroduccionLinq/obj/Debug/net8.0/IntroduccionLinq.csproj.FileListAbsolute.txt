@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\bin\Debug\net8.0\IntroduccionLinq.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\bin\Debug\net8.0\IntroduccionLinq.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\bin\Debug\net8.0\IntroduccionLinq.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\bin\Debug\net8.0\IntroduccionLinq.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\bin\Debug\net8.0\IntroduccionLinq.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\refint\IntroduccionLinq.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\IntroduccionLinq.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IntroduccionLinq\IntroduccionLinq\obj\Debug\net8.0\ref\IntroduccionLinq.dll

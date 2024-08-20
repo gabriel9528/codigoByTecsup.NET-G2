@@ -71,21 +71,47 @@ namespace AdoNet_SP_AspNetFramework.Controllers
         // GET: Products/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var product = product_DAL.GetProductById(id);
+            if (product != null)
+            {
+                return View(product);
+            }
+            else
+            {
+                TempData["errorMessage"] = "Producto no encontrado";
+                return RedirectToAction("Index");
+            }
         }
 
         // POST: Products/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        public ActionResult Edit(ProductModels product)
         {
             try
             {
                 // TODO: Add update logic here
+                if (ModelState.IsValid)
+                {
+                    bool isUpdate = product_DAL.UpdateProduct(product);
+                    if (isUpdate)
+                    {
+                        TempData["successMessage"] = "Producto actualizado correctamente";
+                    }
+                    else
+                    {
+                        TempData["errorMessage"] = "No se pudo actualizar el producto";
+                    }
+                }
+                else
+                {
+                    TempData["errorMessage"] = "No se pudo actualizar el producto";
+                }
 
                 return RedirectToAction("Index");
             }
-            catch
+            catch(Exception ex)
             {
+                TempData["errorMessage"] = ex.Message;
                 return View();
             }
         }

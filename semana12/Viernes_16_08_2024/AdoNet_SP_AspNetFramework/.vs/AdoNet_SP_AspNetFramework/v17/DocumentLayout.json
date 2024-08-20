@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana12\\viernes_16_08_2024\\adonet_sp_aspnetframework\\adonet_sp_aspnetframework\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana12\\viernes_16_08_2024\\adonet_sp_aspnetframework\\adonet_sp_aspnetframework\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\dal\\product_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\dal\\product_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana12\\viernes_16_08_2024\\adonet_sp_aspnetframework\\adonet_sp_aspnetframework\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana12\\viernes_16_08_2024\\adonet_sp_aspnetframework\\adonet_sp_aspnetframework\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana12\\viernes_16_08_2024\\adonet_sp_aspnetframework\\adonet_sp_aspnetframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana12\\viernes_16_08_2024\\adonet_sp_aspnetframework\\adonet_sp_aspnetframework\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|solutionrelative:adonet_sp_aspnetframework\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A4C2C05-9766-469D-9C01-E7EC3A5F24A1}|AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\adonet_sp_aspnetframework\\scripts\\customjs\\autohidealert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,41 +82,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T02:46:14.118Z",
+              "WhenOpened": "2024-08-17T03:46:22.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\Products\\Create.cshtml",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T02:40:41.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutoHideAlert.js",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
-              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
-              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-17T01:39:17.728Z",
               "EditorCaption": ""
             },
             {
@@ -123,14 +114,14 @@
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAswD0AAAAAAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwHEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T01:16:28.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\Shared\\_Layout.cshtml",
@@ -138,44 +129,30 @@
               "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T01:14:06.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T01:14:06.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product_DAL.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\DAL\\Product_DAL.cs",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\DAL\\Product_DAL.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\DAL\\Product_DAL.cs",
               "RelativeToolTip": "AdoNet_SP_AspNetFramework\\DAL\\Product_DAL.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAswEwAAAAIAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAI0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T00:52:27.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductModels.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
-              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
-              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T02:50:52.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\Products\\Index.cshtml",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAQAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T01:19:26.92Z",
               "EditorCaption": ""
@@ -183,6 +160,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AutoHideAlert.js",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
+              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
+              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Scripts\\CustomJS\\AutoHideAlert.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T01:39:17.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:46:14.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductModels.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
+              "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
+              "RelativeToolTip": "AdoNet_SP_AspNetFramework\\Models\\ProductModels.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:50:52.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Web.config",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Web.config",
@@ -195,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Views\\Home\\Index.cshtml",
@@ -207,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana12\\Viernes_16_08_2024\\AdoNet_SP_AspNetFramework\\AdoNet_SP_AspNetFramework\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AdoNet_SP_AspNetFramework\\Controllers\\HomeController.cs",
