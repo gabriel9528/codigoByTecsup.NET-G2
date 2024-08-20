@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\bin\Debug\net8.0\IEnumerable_IQueryable.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\bin\Debug\net8.0\IEnumerable_IQueryable.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\bin\Debug\net8.0\IEnumerable_IQueryable.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\bin\Debug\net8.0\IEnumerable_IQueryable.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\bin\Debug\net8.0\IEnumerable_IQueryable.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\refint\IEnumerable_IQueryable.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\IEnumerable_IQueryable.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\IEnumerable_IQueryable\IEnumerable_IQueryable\obj\Debug\net8.0\ref\IEnumerable_IQueryable.dll
