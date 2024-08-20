@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\bin\Debug\net8.0\Bases03.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\bin\Debug\net8.0\Bases03.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\bin\Debug\net8.0\Bases03.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\bin\Debug\net8.0\Bases03.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\bin\Debug\net8.0\Bases03.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\refint\Bases03.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\Bases03.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases03\Bases03\obj\Debug\net8.0\ref\Bases03.dll

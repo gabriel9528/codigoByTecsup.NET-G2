@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\bin\Debug\net8.0\Bases01.exe
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\bin\Debug\net8.0\Bases01.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\bin\Debug\net8.0\Bases01.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\bin\Debug\net8.0\Bases01.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\bin\Debug\net8.0\Bases01.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\refint\Bases01.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\Bases01.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana13\Lunes19_08_2024\Bases01\Bases01\obj\Debug\net8.0\ref\Bases01.dll
