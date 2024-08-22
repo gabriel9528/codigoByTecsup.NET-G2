@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RelacionesEF_DataAnotations.Data;
 
@@ -10,9 +11,11 @@ using RelacionesEF_DataAnotations.Data;
 namespace RelacionesEF_DataAnotations.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240822030624_Tablas_Doctor_Patient")]
+    partial class Tablas_Doctor_Patient
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -20,38 +23,6 @@ namespace RelacionesEF_DataAnotations.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("RelacionesEF_DataAnotations.Models.ManyToMany.Student", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Students");
-                });
-
-            modelBuilder.Entity("RelacionesEF_DataAnotations.Models.ManyToMany.Subject", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Subjects");
-                });
 
             modelBuilder.Entity("RelacionesEF_DataAnotations.Models.OneToMany.Doctor", b =>
                 {
@@ -128,21 +99,6 @@ namespace RelacionesEF_DataAnotations.Migrations
                     b.ToTable("CarModels");
                 });
 
-            modelBuilder.Entity("StudentSubject", b =>
-                {
-                    b.Property<int>("StudentsId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("SubjectsId")
-                        .HasColumnType("int");
-
-                    b.HasKey("StudentsId", "SubjectsId");
-
-                    b.HasIndex("SubjectsId");
-
-                    b.ToTable("StudentSubject");
-                });
-
             modelBuilder.Entity("RelacionesEF_DataAnotations.Models.OneToMany.Patient", b =>
                 {
                     b.HasOne("RelacionesEF_DataAnotations.Models.OneToMany.Doctor", "Doctor")
@@ -163,21 +119,6 @@ namespace RelacionesEF_DataAnotations.Migrations
                         .IsRequired();
 
                     b.Navigation("CarCompany");
-                });
-
-            modelBuilder.Entity("StudentSubject", b =>
-                {
-                    b.HasOne("RelacionesEF_DataAnotations.Models.ManyToMany.Student", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("RelacionesEF_DataAnotations.Models.ManyToMany.Subject", null)
-                        .WithMany()
-                        .HasForeignKey("SubjectsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("RelacionesEF_DataAnotations.Models.OneToMany.Doctor", b =>

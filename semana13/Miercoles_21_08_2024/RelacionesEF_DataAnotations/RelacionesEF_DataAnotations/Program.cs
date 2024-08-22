@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using RelacionesEF_DataAnotations.Data;
+using RelacionesEF_DataAnotations.Repositorios.OneToMany;
 using RelacionesEF_DataAnotations.Repositorios.OneToOne;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<RepositorioOneToOne>();
+builder.Services.AddScoped<RepositorioOneToMany>();
 
 var app = builder.Build();
 

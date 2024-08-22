@@ -17,9 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\ManyToMany\" />
     <Folder Include="Repositorios\ManyToMany\" />
-    <Folder Include="Repositorios\OneToMany\" />
   </ItemGroup>
 
 </Project>
