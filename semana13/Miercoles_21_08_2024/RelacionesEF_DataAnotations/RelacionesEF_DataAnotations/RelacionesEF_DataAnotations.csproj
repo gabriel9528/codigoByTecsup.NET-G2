@@ -18,10 +18,8 @@
 
   <ItemGroup>
     <Folder Include="Models\ManyToMany\" />
-    <Folder Include="Models\OneToMany\" />
     <Folder Include="Repositorios\ManyToMany\" />
     <Folder Include="Repositorios\OneToMany\" />
-    <Folder Include="Repositorios\OneToOne\" />
   </ItemGroup>
 
 </Project>

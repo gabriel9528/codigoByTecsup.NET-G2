@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\repositorios\\onetoone\\repositorioonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\repositorios\\onetoone\\repositorioonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,66 +63,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Program.cs",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Program.cs",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToMany\\Doctor.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\OneToMany\\Doctor.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToMany\\Doctor.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\OneToMany\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:19:33.831Z",
+              "WhenOpened": "2024-08-22T02:52:07.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Controllers\\TestController.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:16:12.355Z",
+              "WhenOpened": "2024-08-22T02:05:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioOneToOne.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Repositorios\\OneToOne\\RepositorioOneToOne.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Repositorios\\OneToOne\\RepositorioOneToOne.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Repositorios\\OneToOne\\RepositorioOneToOne.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Repositorios\\OneToOne\\RepositorioOneToOne.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAywAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:52:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240822013519_Tablas_CarModels_CarCompanies.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:35:20.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\appsettings.json",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-22T01:12:37.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CarModel.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToOne\\CarModel.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\OneToOne\\CarModel.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToOne\\CarModel.cs",
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\OneToOne\\CarModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T01:06:30.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarCompany.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToOne\\CarCompany.cs",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\OneToOne\\CarCompany.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToOne\\CarCompany.cs",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\OneToOne\\CarCompany.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Program.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Program.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:06:15.666Z",
+              "WhenOpened": "2024-08-22T01:19:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T01:12:37.958Z",
               "EditorCaption": ""
             }
           ]

@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using RelacionesEF_DataAnotations.Data;
+using RelacionesEF_DataAnotations.Repositorios.OneToOne;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<RepositorioOneToOne>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
