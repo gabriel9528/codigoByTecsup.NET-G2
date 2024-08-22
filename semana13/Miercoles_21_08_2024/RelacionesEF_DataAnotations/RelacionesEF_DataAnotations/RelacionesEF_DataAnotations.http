@@ -1,0 +1,6 @@
+@RelacionesEF_DataAnotations_HostAddress = http://localhost:5152
+
+GET {{RelacionesEF_DataAnotations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
