@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\crud_mvc\\crud_mvc\\migrations\\20240824033126_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CF7BAB-F775-49FC-BDD9-9B4C2C30B8E0}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\migrations\\20240824033126_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 829,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Crud_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:34:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Crud_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T03:42:33.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Models\\Contacto.cs",
+              "RelativeToolTip": "Crud_MVC\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:22:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Crud_MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvwwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:12:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\appsettings.json",
+              "RelativeToolTip": "Crud_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T03:08:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Program.cs",
+              "RelativeToolTip": "Crud_MVC\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:09:14.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240824033126_Migrations.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Migrations\\20240824033126_Migrations.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Migrations\\20240824033126_Migrations.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\Crud_MVC\\Crud_MVC\\Migrations\\20240824033126_Migrations.cs",
+              "RelativeToolTip": "Crud_MVC\\Migrations\\20240824033126_Migrations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:32:12.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
