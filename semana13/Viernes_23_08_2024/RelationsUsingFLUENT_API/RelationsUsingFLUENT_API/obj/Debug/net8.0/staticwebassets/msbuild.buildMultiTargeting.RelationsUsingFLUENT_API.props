@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RelationsUsingFLUENT_API.props" />
+</Project>

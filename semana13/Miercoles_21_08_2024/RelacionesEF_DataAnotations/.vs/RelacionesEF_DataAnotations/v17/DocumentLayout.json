@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\manytomany\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\models\\manytomany\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\manytomany\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\repositorios\\onetomany\\repositorioonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\repositorios\\onetomany\\repositorioonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\repositorios\\onetomany\\repositorioonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\miercoles_21_08_2024\\relacionesef_dataanotations\\relacionesef_dataanotations\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:relacionesef_dataanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\relacionesef_dataanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +49,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62B429-5DDB-4FB9-9411-C962DB293ABA}|RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations.csproj|solutionrelative:RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,32 +91,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240822035555_Tables_Student_Subject.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:55:55.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:48:07.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\ManyToMany\\Student.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\ManyToMany\\Student.cs",
@@ -124,8 +98,7 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\ManyToMany\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:47:58.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T03:47:58.635Z"
             },
             {
               "$type": "Document",
@@ -137,12 +110,11 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Repositorios\\OneToMany\\RepositorioOneToMany.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAASwBUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:12:16.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T03:12:16.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20240822030624_Tablas_Doctor_Patient.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs",
@@ -150,12 +122,11 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Migrations\\20240822030624_Tablas_Doctor_Patient.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAgwAcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:06:24.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T03:06:24.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
@@ -163,8 +134,44 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAkwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:59:34.461Z",
+              "WhenOpened": "2024-08-22T02:59:34.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T01:12:37.958Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\ManyToMany\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:48:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240822035555_Tables_Student_Subject.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
+              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
+              "RelativeToolTip": "RelacionesEF_DataAnotations\\Migrations\\20240822035555_Tables_Student_Subject.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:55:55.424Z"
             },
             {
               "$type": "Document",
@@ -176,8 +183,7 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\OneToMany\\Patient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAArwAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:53:42.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T02:53:42.03Z"
             },
             {
               "$type": "Document",
@@ -189,8 +195,7 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Models\\OneToMany\\Doctor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:52:07.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T02:52:07.613Z"
             },
             {
               "$type": "Document",
@@ -202,12 +207,11 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Controllers\\TestController.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAwwEIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:05:35.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T02:05:35.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "RepositorioOneToOne.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Repositorios\\OneToOne\\RepositorioOneToOne.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Repositorios\\OneToOne\\RepositorioOneToOne.cs",
@@ -219,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "20240822013519_Tablas_CarModels_CarCompanies.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Migrations\\20240822013519_Tablas_CarModels_CarCompanies.cs",
@@ -231,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "CarModel.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\Models\\OneToOne\\CarModel.cs",
               "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\Models\\OneToOne\\CarModel.cs",
@@ -251,21 +255,7 @@
               "RelativeToolTip": "RelacionesEF_DataAnotations\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAcwBAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:19:33.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
-              "RelativeDocumentMoniker": "RelacionesEF_DataAnotations\\appsettings.json",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Miercoles_21_08_2024\\RelacionesEF_DataAnotations\\RelacionesEF_DataAnotations\\appsettings.json",
-              "RelativeToolTip": "RelacionesEF_DataAnotations\\appsettings.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-22T01:12:37.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T01:19:33.831Z"
             }
           ]
         },

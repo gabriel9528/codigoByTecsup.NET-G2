@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824022636_Table_Many_To_Many_twp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelationsUsingFLUENT_API\\Migrations\\20240824022636_Table_Many_To_Many_twp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\manytomany\\ejercicio2\\personbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\manytomany\\ejercicio2\\personbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\manytomany\\ejercicio2\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\manytomany\\ejercicio2\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\manytomany\\ejercicio2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\manytomany\\ejercicio2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\migrations\\20240824021408_table_many_to_many_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\migrations\\20240824021408_table_many_to_many_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\manytomany\\ejercicio1\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\manytomany\\ejercicio1\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\manytomany\\ejercicio1\\studentmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\manytomany\\ejercicio1\\studentmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\manytomany\\ejercicio1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\manytomany\\ejercicio1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetomany\\pattient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetomany\\pattient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetomany\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetomany\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetomany\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetomany\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824013635_Table_OneToOne_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelationsUsingFLUENT_API\\Migrations\\20240824013635_Table_OneToOne_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetoone\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetoone\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetoone\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetoone\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824011516_Table_OneToOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelationsUsingFLUENT_API\\Migrations\\20240824011516_Table_OneToOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana13\\viernes_23_08_2024\\relationsusingfluent_api\\relationsusingfluent_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580E6D9-3E5A-4E6F-ADA8-043A55BF7EA1}|RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API.csproj|solutionrelative:relationsusingfluent_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 399,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240824022636_Table_Many_To_Many_twp.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824022636_Table_Many_To_Many_twp.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Migrations\\20240824022636_Table_Many_To_Many_twp.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824022636_Table_Many_To_Many_twp.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Migrations\\20240824022636_Table_Many_To_Many_twp.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:26:36.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\PersonBusiness.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\PersonBusiness.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\PersonBusiness.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\PersonBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:18:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Business.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Business.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Business.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:18:14.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Person.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Person.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Person.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio2\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:18:08.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240824021408_Table_Many_To_Many_one.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824021408_Table_Many_To_Many_one.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Migrations\\20240824021408_Table_Many_To_Many_one.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824021408_Table_Many_To_Many_one.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Migrations\\20240824021408_Table_Many_To_Many_one.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA5wDoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:14:08.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Materia.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Materia.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Materia.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:01:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwv0sAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:53:02.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentMateria.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\StudentMateria.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\StudentMateria.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\StudentMateria.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\StudentMateria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:01:46.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Student.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Student.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Student.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\ManyToMany\\Ejercicio1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:59:51.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Book.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Book.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Book.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:56:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pattient.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Pattient.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Pattient.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Pattient.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Pattient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:41:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Doctor.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Doctor.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Doctor.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:40:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Author.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Author.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToMany\\Author.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToMany\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:55:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240824013635_Table_OneToOne_two.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824013635_Table_OneToOne_two.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Migrations\\20240824013635_Table_OneToOne_two.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824013635_Table_OneToOne_two.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Migrations\\20240824013635_Table_OneToOne_two.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:36:35.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeAddress.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\EmployeeAddress.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToOne\\EmployeeAddress.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\EmployeeAddress.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToOne\\EmployeeAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:22:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\Employee.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToOne\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\Employee.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToOne\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:20:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240824011516_Table_OneToOne.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824011516_Table_OneToOne.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Migrations\\20240824011516_Table_OneToOne.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Migrations\\20240824011516_Table_OneToOne.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Migrations\\20240824011516_Table_OneToOne.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:15:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\CarModel.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToOne\\CarModel.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\CarModel.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToOne\\CarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:06:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarCompany.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Models\\OneToOne\\CarCompany.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Models\\OneToOne\\CarCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:06:29.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Program.cs",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\Program.cs",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:48:50.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\appsettings.json",
+              "RelativeDocumentMoniker": "RelationsUsingFLUENT_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana13\\Viernes_23_08_2024\\RelationsUsingFLUENT_API\\RelationsUsingFLUENT_API\\appsettings.json",
+              "RelativeToolTip": "RelationsUsingFLUENT_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T00:48:03.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
