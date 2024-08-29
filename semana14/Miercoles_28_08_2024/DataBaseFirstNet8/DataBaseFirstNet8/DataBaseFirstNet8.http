@@ -1,0 +1,6 @@
+@DataBaseFirstNet8_HostAddress = http://localhost:5031
+
+GET {{DataBaseFirstNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

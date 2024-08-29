@@ -1,0 +1,68 @@
+﻿@using MVC_Razor.Models
+
+@model IEnumerable<Contacto>
+
+@{
+    ViewData["Title"] = "Lista de contactos";
+}
+
+<h1 class="text-center">Proyecto MVC de Contactos</h1>
+
+<div class="row">
+    <div class="offset-9 col-3" >
+        <a asp-controller="Contactos" asp-action="Create" class="btn btn-secondary d-block mx-auto btn-lg">
+            <i class="fa fa-plus" aria-hidden="true"></i>Nuevo Contacto
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class="text-white">Lista de contactos</h3>
+            </div>
+            <div class="body">
+                <div class="table-responsive">
+                    @if(Model.Count() > 0)
+                    {
+                        <table class="table-borderless" id="tblUsuarios" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>@Html.DisplayNameFor( m => m.Id )</th>
+                                    <th>@Html.DisplayNameFor( m => m.Name )</th>
+                                    <th>@Html.DisplayNameFor( m => m.Phone )</th>
+                                    <th>@Html.DisplayNameFor(m => m.CellPhone)</th>
+                                    <th>@Html.DisplayNameFor(m => m.Email)</th>
+                                    <th>@Html.DisplayNameFor(m => m.CreationDate)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach(var item in Model)
+                                {
+                                    <tr>
+                                        <td>@Html.DisplayFor(x => item.Id)</td>
+                                        <td>@Html.DisplayFor(x => item.Name)</td>
+                                        <td>@Html.DisplayFor(x => item.Phone)</td>
+                                        <td>@Html.DisplayFor(x => item.CellPhone)</td>
+                                        <td>@Html.DisplayFor(x => item.Email)</td>
+                                        <td>@Html.DisplayFor(x => item.CreationDate)</td>
+                                        <td>
+                                            <a class="btn btn-warning" asp-controller="Contactos" asp-action="Edit" asp-route-id="@item.Id"><i class="fa fa-pencil" aria-hidden="true"></i>Editar</a>
+                                            <a class="btn btn-danger" asp-controller="Contactos" asp-action="Delete" asp-route-id="@item.Id"><i class="fa fa-trash" aria-hidden="true"></i>Eliminar</a>
+                                            <a class="btn btn-success" asp-controller="Contactos" asp-action="Detail" asp-route-id="@item.Id"><i class="fa fa-info-circle" aria-hidden="true"></i>Detalle</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                    else
+                    {
+                        <p>No existen registros almacenados</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

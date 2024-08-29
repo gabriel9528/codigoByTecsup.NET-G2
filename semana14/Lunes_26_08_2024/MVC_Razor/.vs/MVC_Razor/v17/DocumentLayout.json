@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\contactos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contactos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\contactos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contactos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\contactos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contactos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\contactos\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contactos\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\contactos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contactos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Migrations\\20240827012733_table_Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Razor\\Migrations\\20240827012733_table_Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\lunes_26_08_2024\\mvc_razor\\mvc_razor\\views\\contactos\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BA122-9782-45A1-893C-5121D7B9643D}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contactos\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contactos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Delete.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contactos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T03:53:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVC_Razor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVC_Razor\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T03:25:16.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contactos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Create.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contactos\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T02:51:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Razor\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MVC_Razor\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:07:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactosController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Controllers\\ContactosController.cs",
+              "RelativeDocumentMoniker": "MVC_Razor\\Controllers\\ContactosController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Controllers\\ContactosController.cs",
+              "RelativeToolTip": "MVC_Razor\\Controllers\\ContactosController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:57:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contactos\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Detail.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contactos\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T03:43:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contactos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Index.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contactos\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T01:37:56.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contactos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contactos\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T03:27:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240827012733_table_Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Migrations\\20240827012733_table_Contacto.cs",
+              "RelativeDocumentMoniker": "MVC_Razor\\Migrations\\20240827012733_table_Contacto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Migrations\\20240827012733_table_Contacto.cs",
+              "RelativeToolTip": "MVC_Razor\\Migrations\\20240827012733_table_Contacto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:27:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "MVC_Razor\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Models\\Contacto.cs",
+              "RelativeToolTip": "MVC_Razor\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:03:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Razor\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Program.cs",
+              "RelativeToolTip": "MVC_Razor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:01:24.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Razor\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\appsettings.json",
+              "RelativeToolTip": "MVC_Razor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T01:01:13.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T01:00:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T00:57:54.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contactos\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Lunes_26_08_2024\\MVC_Razor\\MVC_Razor\\Views\\Contactos\\Privacy.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contactos\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T01:00:45.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

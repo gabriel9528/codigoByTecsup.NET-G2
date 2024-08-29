@@ -1,0 +1,30 @@
+﻿@using MVC_Razor
+
+@model Contacto
+
+@{
+    ViewData["Title"] = "Detalle del contacto";
+}
+
+<h1 class="text-center">Detalle del contacto</h1>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="card-header">
+                <h3 class="text-white"><strong>Detalle del contacto</strong></h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(x=>x.Name)</li>
+                    <li class="list-group-item"><strong>Telefono: </strong>@Html.DisplayFor(x=>x.Phone)</li>
+                    <li class="list-group-item"><strong>Celular: </strong>@Html.DisplayFor(x=>x.CellPhone)</li>
+                    <li class="list-group-item"><strong>Email: </strong>@Html.DisplayFor(x=>x.Email)</li>
+                    <li class="list-group-item"><strong>Fecha de creacion: </strong>@Html.DisplayFor(x=>x.CreationDate)</li>
+                </ul>
+            </div>
+
+            <a asp-controller="Contactos" asp-action="Index" class="btn btn-primary">Regresar</a>
+        </div>
+    </div>
+</div>
