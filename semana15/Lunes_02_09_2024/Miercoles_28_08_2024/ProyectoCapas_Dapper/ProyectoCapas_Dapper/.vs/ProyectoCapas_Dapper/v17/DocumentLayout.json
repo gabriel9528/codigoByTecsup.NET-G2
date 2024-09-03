@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\lunes_02_09_2024\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\dal\\datacontext\\dapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|solutionrelative:dal\\datacontext\\dapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\lunes_02_09_2024\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\proyectocapas_dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|solutionrelative:proyectocapas_dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\lunes_02_09_2024\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\proyectocapas_dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|solutionrelative:proyectocapas_dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\lunes_02_09_2024\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\proyectocapas_dapper\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|solutionrelative:proyectocapas_dapper\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\lunes_02_09_2024\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\proyectocapas_dapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|solutionrelative:proyectocapas_dapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\lunes_02_09_2024\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\proyectocapas_dapper\\views\\students\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|solutionrelative:proyectocapas_dapper\\views\\students\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperConnectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataContext\\DapperConnectionHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\DataContext\\DapperConnectionHelper.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataContext\\DapperConnectionHelper.cs",
+              "RelativeToolTip": "DAL\\DataContext\\DapperConnectionHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:09:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoCapas_Dapper\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\appsettings.json",
+              "RelativeToolTip": "ProyectoCapas_Dapper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T02:09:05.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas_Dapper\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ProyectoCapas_Dapper\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:02:26.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Views\\Students\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas_Dapper\\Views\\Students\\StudentList.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Views\\Students\\StudentList.cshtml",
+              "RelativeToolTip": "ProyectoCapas_Dapper\\Views\\Students\\StudentList.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T01:40:53.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T01:35:52.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas_Dapper\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Lunes_02_09_2024\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Program.cs",
+              "RelativeToolTip": "ProyectoCapas_Dapper\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:35:27.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

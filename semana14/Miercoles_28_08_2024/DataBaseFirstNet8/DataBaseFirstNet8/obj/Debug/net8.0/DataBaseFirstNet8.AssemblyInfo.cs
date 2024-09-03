@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataBaseFirstNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ce72d0cade989fd66f259f02986debad446c234")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c25b593e0663bbc6a4e15c86e92b24f6686515b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataBaseFirstNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataBaseFirstNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

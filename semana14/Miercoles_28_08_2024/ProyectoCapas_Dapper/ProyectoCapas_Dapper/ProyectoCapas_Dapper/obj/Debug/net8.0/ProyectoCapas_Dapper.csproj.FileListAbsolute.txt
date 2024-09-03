@@ -37,3 +37,10 @@ C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dap
 C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\obj\Debug\net8.0\ProyectoCapas_Dapper.pdb
 C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\obj\Debug\net8.0\ProyectoCapas_Dapper.genruntimeconfig.cache
 C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\obj\Debug\net8.0\ref\ProyectoCapas_Dapper.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\Dapper.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana14\Miercoles_28_08_2024\ProyectoCapas_Dapper\ProyectoCapas_Dapper\ProyectoCapas_Dapper\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

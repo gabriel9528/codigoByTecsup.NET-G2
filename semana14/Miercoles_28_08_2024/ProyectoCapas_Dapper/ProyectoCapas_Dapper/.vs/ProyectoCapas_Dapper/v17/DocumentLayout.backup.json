@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\proyectocapas_dapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8079FA6B-8298-4394-9329-EBADD69FB15A}|ProyectoCapas_Dapper\\ProyectoCapas_Dapper.csproj|solutionrelative:proyectocapas_dapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\dal\\dataservices\\studentdatadalcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|solutionrelative:dal\\dataservices\\studentdatadalcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\dal\\datacontext\\idapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|solutionrelative:dal\\datacontext\\idapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\dal\\datacontext\\dapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|solutionrelative:dal\\datacontext\\dapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\dal\\dataservices\\istudentdatadalcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95377CF3-1157-466F-91EF-A339C92DAF7A}|DAL\\DAL.csproj|solutionrelative:dal\\dataservices\\istudentdatadalcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10ED166-620F-4B3D-BE96-82466B208E27}|BLL\\BLL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\bll\\logicservices\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D10ED166-620F-4B3D-BE96-82466B208E27}|BLL\\BLL.csproj|solutionrelative:bll\\logicservices\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10ED166-620F-4B3D-BE96-82466B208E27}|BLL\\BLL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\bll\\logicservices\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D10ED166-620F-4B3D-BE96-82466B208E27}|BLL\\BLL.csproj|solutionrelative:bll\\logicservices\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9928CD-F238-4377-9687-06423AEACE1A}|BOL\\BOL.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana14\\miercoles_28_08_2024\\proyectocapas_dapper\\proyectocapas_dapper\\bol\\databaseentities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9928CD-F238-4377-9687-06423AEACE1A}|BOL\\BOL.csproj|solutionrelative:bol\\databaseentities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProyectoCapas_Dapper\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T00:03:54.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperConnectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataContext\\DapperConnectionHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\DataContext\\DapperConnectionHelper.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataContext\\DapperConnectionHelper.cs",
+              "RelativeToolTip": "DAL\\DataContext\\DapperConnectionHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:55:43.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDapperConnectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataContext\\IDapperConnectionHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\DataContext\\IDapperConnectionHelper.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataContext\\IDapperConnectionHelper.cs",
+              "RelativeToolTip": "DAL\\DataContext\\IDapperConnectionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:22:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDataDALcs.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataServices\\StudentDataDALcs.cs",
+              "RelativeDocumentMoniker": "DAL\\DataServices\\StudentDataDALcs.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataServices\\StudentDataDALcs.cs",
+              "RelativeToolTip": "DAL\\DataServices\\StudentDataDALcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:07:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentDataDALcs.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataServices\\IStudentDataDALcs.cs",
+              "RelativeDocumentMoniker": "DAL\\DataServices\\IStudentDataDALcs.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\DAL\\DataServices\\IStudentDataDALcs.cs",
+              "RelativeToolTip": "DAL\\DataServices\\IStudentDataDALcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:06:53.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\BLL\\LogicServices\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicServices\\StudentService.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\BLL\\LogicServices\\StudentService.cs",
+              "RelativeToolTip": "BLL\\LogicServices\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:03:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\BLL\\LogicServices\\IStudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicServices\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\BLL\\LogicServices\\IStudentService.cs",
+              "RelativeToolTip": "BLL\\LogicServices\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:03:05.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\BOL\\DataBaseEntities\\Course.cs",
+              "RelativeDocumentMoniker": "BOL\\DataBaseEntities\\Course.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana14\\Miercoles_28_08_2024\\ProyectoCapas_Dapper\\ProyectoCapas_Dapper\\BOL\\DataBaseEntities\\Course.cs",
+              "RelativeToolTip": "BOL\\DataBaseEntities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:55:34.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
