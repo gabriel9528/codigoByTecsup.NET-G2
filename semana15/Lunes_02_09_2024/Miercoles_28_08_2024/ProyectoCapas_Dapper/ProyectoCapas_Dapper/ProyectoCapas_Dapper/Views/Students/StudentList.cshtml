@@ -33,8 +33,8 @@
                                 <td>@student.LastName</td>
                                 <td>@student.Email</td>
                                 <td>
-                                    <a class="btn btn-primary btn-sm" href="@Url.Action("EditStudent", "Students", new { id = student.StudentId })">Edit</a>
-                                    <a class="btn btn-danger btn-sm" href="@Url.Action("GetDeleteStudent", "Students", new { id = student.StudentId })" onclick="return confirm('Estas seguro de elimiar este estudiante?');">Delete</a>
+                                    <a class="btn btn-primary btn-sm" href="@Url.Action("EditStudent2", "Students", new { StudentId = student.StudentId })">Edit</a>
+                                    <a class="btn btn-danger btn-sm" href="@Url.Action("GetDeleteStudent", "Students", new { StudentId = student.StudentId })" onclick="return confirm('Estas seguro de elimiar este estudiante?');">Delete</a>
                                 </td>
                             </tr>
                         }

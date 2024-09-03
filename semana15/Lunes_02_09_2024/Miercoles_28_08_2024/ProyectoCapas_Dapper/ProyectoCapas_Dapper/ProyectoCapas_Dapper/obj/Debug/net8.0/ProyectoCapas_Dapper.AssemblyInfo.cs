@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoCapas_Dapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c25b593e0663bbc6a4e15c86e92b24f6686515b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e54e260c632e31781e1c557766faf6147db50f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoCapas_Dapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoCapas_Dapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
