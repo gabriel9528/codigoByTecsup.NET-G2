@@ -42,7 +42,7 @@ namespace WebAPI.Controllers
             return Ok(response);
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteEmployee(int id)
         {
             var response = await _employeeService.DeleteAsync(id);
