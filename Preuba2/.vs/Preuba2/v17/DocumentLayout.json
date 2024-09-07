@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FD7156-0C0E-446A-8C74-C043B5F254D6}|Preuba2Test\\Preuba2Test.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\preuba2\\preuba2test\\pingtest\\networkservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FD7156-0C0E-446A-8C74-C043B5F254D6}|Preuba2Test\\Preuba2Test.csproj|solutionrelative:preuba2test\\pingtest\\networkservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5481E181-E702-4568-945C-70DED67089D4}|Preuba2\\Preuba2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\preuba2\\preuba2\\ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5481E181-E702-4568-945C-70DED67089D4}|Preuba2\\Preuba2.csproj|solutionrelative:preuba2\\ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5481E181-E702-4568-945C-70DED67089D4}|Preuba2\\Preuba2.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\preuba2\\preuba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5481E181-E702-4568-945C-70DED67089D4}|Preuba2\\Preuba2.csproj|solutionrelative:preuba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\Preuba2Test\\PingTest\\NetworkServiceTest.cs",
+              "RelativeDocumentMoniker": "Preuba2Test\\PingTest\\NetworkServiceTest.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\Preuba2Test\\PingTest\\NetworkServiceTest.cs",
+              "RelativeToolTip": "Preuba2Test\\PingTest\\NetworkServiceTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:51:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\Preuba2\\Ping\\NetworkService.cs",
+              "RelativeDocumentMoniker": "Preuba2\\Ping\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\Preuba2\\Ping\\NetworkService.cs",
+              "RelativeToolTip": "Preuba2\\Ping\\NetworkService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:45:45.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\Preuba2\\Program.cs",
+              "RelativeDocumentMoniker": "Preuba2\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\Preuba2\\Preuba2\\Program.cs",
+              "RelativeToolTip": "Preuba2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:44:55.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

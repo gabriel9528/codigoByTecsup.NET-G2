@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\bin\Debug\net8.0\Preuba2.exe
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\bin\Debug\net8.0\Preuba2.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\bin\Debug\net8.0\Preuba2.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\bin\Debug\net8.0\Preuba2.dll
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\bin\Debug\net8.0\Preuba2.pdb
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.dll
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\refint\Preuba2.dll
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.pdb
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\Preuba2.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Net-g2\Preuba2\Preuba2\obj\Debug\net8.0\ref\Preuba2.dll
