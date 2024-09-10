@@ -6938,11 +6938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\WebAssembly.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\WebAssembly\\WebAssembly.csproj",
       "projectName": "WebAssembly",
-      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\WebAssembly.csproj",
+      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\WebAssembly\\WebAssembly.csproj",
       "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\obj\\",
+      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\WebAssembly\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6960,8 +6960,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj": {
-              "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj"
+            "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj": {
+              "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj"
             }
           }
         }

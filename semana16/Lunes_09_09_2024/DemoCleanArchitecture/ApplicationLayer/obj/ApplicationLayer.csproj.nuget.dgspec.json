@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj",
         "projectName": "ApplicationLayer",
-        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\ApplicationLayer.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Lunes_09_09_2024\\DemoCleanArchitecture\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InfraestructureLayer
-build_property.ProjectDir = C:\Users\gabriel\Desktop\.Net-g2\semana15\Miercoles_04_09_2024\DemoCleanArchitecture\InfraestructureLayer\
+build_property.ProjectDir = C:\Users\gabriel\Desktop\.Net-g2\semana16\Lunes_09_09_2024\DemoCleanArchitecture\InfraestructureLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
