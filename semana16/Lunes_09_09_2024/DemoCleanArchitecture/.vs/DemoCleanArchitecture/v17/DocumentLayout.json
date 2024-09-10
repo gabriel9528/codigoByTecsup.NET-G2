@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7019F9DC-FAC4-40F5-8B7A-0651B6FD926A}|WebAPI\\WebAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7019F9DC-FAC4-40F5-8B7A-0651B6FD926A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488629D3-0AE4-4B1E-B599-296FAF0095F1}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\applicationlayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488629D3-0AE4-4B1E-B599-296FAF0095F1}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF64AD7E-3E72-4876-BB7A-E977ED0A1557}|WebAssembly\\WebAssembly.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF64AD7E-3E72-4876-BB7A-E977ED0A1557}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0937E8F9-4BFD-424F-9EA3-41F1CAF13CF1}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\infraestructurelayer\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0937E8F9-4BFD-424F-9EA3-41F1CAF13CF1}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF64AD7E-3E72-4876-BB7A-E977ED0A1557}|WebAssembly\\WebAssembly.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF64AD7E-3E72-4876-BB7A-E977ED0A1557}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7019F9DC-FAC4-40F5-8B7A-0651B6FD926A}|WebAPI\\WebAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7019F9DC-FAC4-40F5-8B7A-0651B6FD926A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7019F9DC-FAC4-40F5-8B7A-0651B6FD926A}|WebAPI\\WebAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7019F9DC-FAC4-40F5-8B7A-0651B6FD926A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488629D3-0AE4-4B1E-B599-296FAF0095F1}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\applicationlayer\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488629D3-0AE4-4B1E-B599-296FAF0095F1}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27EFCFC-1E6C-409A-B4AD-795E5C6247A0}|DomainLayer\\DomainLayer.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\domainlayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27EFCFC-1E6C-409A-B4AD-795E5C6247A0}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0937E8F9-4BFD-424F-9EA3-41F1CAF13CF1}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\infraestructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0937E8F9-4BFD-424F-9EA3-41F1CAF13CF1}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0937E8F9-4BFD-424F-9EA3-41F1CAF13CF1}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana15\\miercoles_04_09_2024\\democleanarchitecture\\infraestructurelayer\\infraestructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0937E8F9-4BFD-424F-9EA3-41F1CAF13CF1}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\infraestructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:51:11.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:26:58.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAssembly\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAssembly\\Pages\\Home.razor",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T00:11:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T03:50:25.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "WebAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAssembly\\Program.cs",
+              "RelativeToolTip": "WebAssembly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:11:13.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:01:38.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\InfraestructureLayer\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\InfraestructureLayer\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "InfraestructureLayer\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:34:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\ApplicationLayer\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:23:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\InfraestructureLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\InfraestructureLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InfraestructureLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:13:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\DomainLayer\\Entities\\Employee.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:11:19.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfraestructureLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\InfraestructureLayer\\InfraestructureLayer.csproj",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\InfraestructureLayer.csproj",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana15\\Miercoles_04_09_2024\\DemoCleanArchitecture\\InfraestructureLayer\\InfraestructureLayer.csproj",
+              "RelativeToolTip": "InfraestructureLayer\\InfraestructureLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T01:02:44.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
