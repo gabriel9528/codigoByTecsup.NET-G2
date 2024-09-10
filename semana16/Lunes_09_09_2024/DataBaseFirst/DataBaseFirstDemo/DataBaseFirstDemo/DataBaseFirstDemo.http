@@ -1,0 +1,10 @@
+@DataBaseFirstDemo_HostAddress = https://localhost:7262
+
+GET {{DataBaseFirstDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{DataBaseFirstDemo_HostAddress}}/api/Productos
+
+###
