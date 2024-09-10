@@ -1,8 +1,10 @@
-﻿using ApplicationLayer.Interfaces;
+﻿using ApplicationLayer.DTOs;
+using ApplicationLayer.Interfaces;
 using DomainLayer.Entities;
 using FakeItEasy;
 using FluentAssertions;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,7 +43,7 @@ namespace DemoCleanArchitectureTest.PresentationLayorTest
         }
 
         [Fact]
-        public async Task EmployeesRepository_GetById_ReturnsOkEmployee()
+        public async Task EmployeesController_GetById_ReturnsOkEmployee()
         {
             //Arrange
             int id = 1;
@@ -56,5 +58,75 @@ namespace DemoCleanArchitectureTest.PresentationLayorTest
             var okResult = result as OkObjectResult;
             okResult.Value.Should().Be(employee);
         }
+
+        [Fact]
+        public async Task EmployeeController_GetById_ReturnsNotFoundEmployee()
+        {
+            //Arrange
+            int id = 1;
+            A.CallTo(() => _employeeService.GetByIdAsync(id)).Returns(null as Employee);
+
+            //Act
+            var result = await _employeesController.GetById(id);
+
+            //Assert
+            result.Should().BeOfType<NotFoundResult>();
+        }
+
+
+        [Fact]
+        public async Task EmployeeController_AddEmployee_ReturnsOkResponse()
+        {
+            //Arrange
+            var employee = new Employee { Name = "Juancito", Address = "calle coopertaiva 123" };
+            var serviceResponse = new ServiceResponse ( true, "Empleado guardado exitosamente" );
+            A.CallTo(() => _employeeService.AddAsync(employee)).Returns(serviceResponse);
+
+            //Act
+            var result = await _employeesController.AddEmployee(employee);
+
+            //Assert
+            result.Should().BeOfType<OkObjectResult>();
+            var okResult = result as OkObjectResult;
+            okResult.Value.Should().Be(serviceResponse);
+
+        }
+
+        [Fact]
+        public async Task EmployeeController_UpdateEmployee_ReturnsOkResponse()
+        {
+            //Arrange
+            var employee = new Employee { Id = 1, Name = "Pedrito", Address = "calle 123" };
+            var serviceResponse = new ServiceResponse(true, "Empleado actualziado exitosamente");
+            A.CallTo(() => _employeeService.UpdateAsync(employee)).Returns(serviceResponse);
+
+            //Act
+            var result = await _employeesController.UpdateEmployee(employee);
+
+            //Assert
+            result.Should().BeOfType<OkObjectResult>();
+            var okResult = result as OkObjectResult;
+            okResult.Value.Should().Be(serviceResponse);
+
+        }
+
+        [Fact]
+        public async Task EmployeeController_DeleteEmployee_ReturnsOkResponse()
+        {
+            //Arrange
+            int id = 1;
+            var serviceResponse = new ServiceResponse(true, "Empleado eliminado exitosamente");
+            A.CallTo(()=> _employeeService.DeleteAsync(id)).Returns(serviceResponse);
+
+            //Act
+            var result = await _employeesController.DeleteEmployee(id);
+
+            //Assert
+            result.Should().BeOfType<OkObjectResult>();
+            var okResult = result as OkObjectResult;
+            okResult.Value.Should().Be(serviceResponse);
+
+        }
+
     }
 }
