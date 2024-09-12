@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using ProyectoCapas.Models;
 
 namespace ProyectoCapas.Data
 {
@@ -9,5 +10,7 @@ namespace ProyectoCapas.Data
             : base(options)
         {
         }
+
+        public DbSet<Categoria> Categorias { get; set; }
     }
 }
