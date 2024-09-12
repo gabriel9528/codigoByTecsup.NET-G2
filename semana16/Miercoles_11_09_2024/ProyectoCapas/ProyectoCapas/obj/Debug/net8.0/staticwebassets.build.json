@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8Om/5JZ/OzkLUCBR/73oSCyUEv+rdthuLJsJ7Dqf1Sc=",
+  "Hash": "xyALav69nMyE0YtCr4oowmzeVl5H24747SZR9FExL64=",
   "Source": "ProyectoCapas",
   "BasePath": "_content/ProyectoCapas",
   "Mode": "Default",
@@ -1402,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "SourceId": "ProyectoCapas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\",
+      "BasePath": "_content/ProyectoCapas",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap5.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
     },
     {
       "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

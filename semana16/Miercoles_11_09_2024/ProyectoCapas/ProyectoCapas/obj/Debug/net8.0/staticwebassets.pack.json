@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
+    },
+    {
       "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
