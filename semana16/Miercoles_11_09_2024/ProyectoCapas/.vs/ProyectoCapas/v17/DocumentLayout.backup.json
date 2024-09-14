@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B97A1C3B-E458-4C98-8B44-022B43A8386F}|ProyectoCapas.Models\\ProyectoCapas.Models.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97A1C3B-E458-4C98-8B44-022B43A8386F}|ProyectoCapas.Models\\ProyectoCapas.Models.csproj|solutionrelative:proyectocapas.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +61,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD09C890-4B48-4486-B3D6-76E0589D53AA}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FD09C890-4B48-4486-B3D6-76E0589D53AA}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana16\\miercoles_11_09_2024\\proyectocapas\\proyectocapas.accesodatos\\migrations\\20240912030336_table_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF9D576-EDE7-4FA3-B41B-2C3E93A23630}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\migrations\\20240912030336_table_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,19 +79,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240912030336_Table_Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
-              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
-              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwFMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T03:03:36.359Z",
+              "WhenOpened": "2024-09-12T03:45:19.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:27:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240912030336_Table_Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Migrations\\20240912030336_Table_Categorias.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:03:36.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
@@ -91,8 +124,7 @@
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T02:59:00.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T02:59:00.955Z"
             },
             {
               "$type": "Document",
@@ -102,13 +134,14 @@
               "RelativeDocumentMoniker": "ProyectoCapas.Models\\Categoria.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\Categoria.cs",
               "RelativeToolTip": "ProyectoCapas.Models\\Categoria.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T02:53:58.417Z"
+              "WhenOpened": "2024-09-12T02:53:58.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -120,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\appsettings.json",
               "RelativeDocumentMoniker": "ProyectoCapas\\appsettings.json",
@@ -132,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
@@ -144,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "bootstrap5.min.css",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
               "RelativeDocumentMoniker": "ProyectoCapas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
@@ -156,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
@@ -168,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Areas\\Cliente\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Cliente\\Controllers\\HomeController.cs",
@@ -180,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoCapas\\Program.cs",
@@ -192,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ProyectoCapas\\Views\\Shared\\_LoginPartial.cshtml",
@@ -204,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
@@ -216,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -228,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Miercoles_11_09_2024\\ProyectoCapas\\ProyectoCapas\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ProyectoCapas\\ScaffoldingReadMe.txt",
