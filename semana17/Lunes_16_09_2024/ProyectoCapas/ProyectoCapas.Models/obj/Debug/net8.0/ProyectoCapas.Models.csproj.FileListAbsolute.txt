@@ -34,3 +34,4 @@ C:\Users\gabriel\Desktop\.Net-g2\semana17\Lunes_16_09_2024\ProyectoCapas\Proyect
 C:\Users\gabriel\Desktop\.Net-g2\semana17\Lunes_16_09_2024\ProyectoCapas\ProyectoCapas.Models\obj\Debug\net8.0\refint\ProyectoCapas.Models.dll
 C:\Users\gabriel\Desktop\.Net-g2\semana17\Lunes_16_09_2024\ProyectoCapas\ProyectoCapas.Models\obj\Debug\net8.0\ProyectoCapas.Models.pdb
 C:\Users\gabriel\Desktop\.Net-g2\semana17\Lunes_16_09_2024\ProyectoCapas\ProyectoCapas.Models\obj\Debug\net8.0\ref\ProyectoCapas.Models.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Lunes_16_09_2024\ProyectoCapas\ProyectoCapas.Models\obj\Debug\net8.0\ProyectoCapas.Models.csproj.AssemblyReference.cache

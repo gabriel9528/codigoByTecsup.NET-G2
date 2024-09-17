@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProyectoCapas.AccesoDatos.Data.Repository.IRepository;
+using ProyectoCapas.Models;
+using ProyectoCapas.Models.ViewModels;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ProyectoCapas.Areas.Admin.Controllers
@@ -19,7 +21,23 @@ namespace ProyectoCapas.Areas.Admin.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult Create()
+        {
+            ArticuloCategoriaViewModel articuloCategoriaViewModel = new ArticuloCategoriaViewModel()
+            {
+                Articulo = new Articulo(),
+                ListaCategorias = _icontenedorTrabajo.ICategoriaRepository.GetListCategorias()
+            };
 
+            return View(articuloCategoriaViewModel);
+        }
+
+        [HttpPost]
+        public IActionResult Create(ArticuloCategoriaViewModel articuloCategoriaViewModel)
+        {
+            return View();
+        }
 
         #region Llamadas a la API
         [HttpGet]

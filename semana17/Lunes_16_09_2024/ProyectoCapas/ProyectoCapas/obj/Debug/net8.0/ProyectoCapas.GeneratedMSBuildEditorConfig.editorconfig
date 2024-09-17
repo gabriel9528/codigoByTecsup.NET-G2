@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gabriel\Desktop\.Net-g2\semana17\Lunes_16_09_2024\ProyectoCapas\ProyectoCapas
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gabriel/Desktop/.Net-g2/semana17/Lunes_16_09_2024/ProyectoCapas/ProyectoCapas/Areas/Admin/Views/Articulos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gabriel/Desktop/.Net-g2/semana17/Lunes_16_09_2024/ProyectoCapas/ProyectoCapas/Areas/Admin/Views/Articulos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
