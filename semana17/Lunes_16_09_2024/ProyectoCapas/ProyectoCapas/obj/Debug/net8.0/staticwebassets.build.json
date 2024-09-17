@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KHHihoDZkZqNFaP3RP3KBRDpuCiUaPDGHDveJXgsuBw=",
+  "Hash": "SwVeAxbCQ5B5eXex0OjjBXP77VbDFy0T7Whnnfmg8tU=",
   "Source": "ProyectoCapas",
   "BasePath": "_content/ProyectoCapas",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\articulo.js",
+      "SourceId": "ProyectoCapas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\",
+      "BasePath": "_content/ProyectoCapas",
+      "RelativePath": "js/articulo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\articulo.js"
     },
     {
       "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\categoria.js",
