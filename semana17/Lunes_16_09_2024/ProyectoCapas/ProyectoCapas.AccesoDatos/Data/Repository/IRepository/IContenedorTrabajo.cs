@@ -9,6 +9,7 @@ namespace ProyectoCapas.AccesoDatos.Data.Repository.IRepository
     public interface IContenedorTrabajo
     {
         ICategoriaRepository ICategoriaRepository { get; }
+        IArticuloRepository IArticuloRepository { get; }
         void Save();
     }
 }

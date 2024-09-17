@@ -15,9 +15,12 @@ namespace ProyectoCapas.AccesoDatos.Data.Repository
         {
             _db = db;
             ICategoriaRepository = new CategoriaRepository(_db);
+            IArticuloRepository = new ArticuloRepository(_db);
         }
 
         public ICategoriaRepository ICategoriaRepository { get; private set; }
+        public IArticuloRepository IArticuloRepository { get; private set; }
+
 
         public void Dispose()
         {
