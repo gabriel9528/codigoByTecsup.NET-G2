@@ -74,8 +74,7 @@
               "RelativeToolTip": "ProyectoCapas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T20:56:54.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:56:54.317Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T20:56:06.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:56:06.504Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "ProyectoCapas\\Views\\Shared\\_VistaCrearVolver.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T20:42:34.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:42:34.08Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "ProyectoCapas.Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:41:27.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:41:27.45Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T20:39:35.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:39:35.944Z"
             },
             {
               "$type": "Document",
@@ -137,7 +132,7 @@
               "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana16\\Viernes_13_09_2024\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwE0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T20:12:13.948Z",
               "EditorCaption": ""
@@ -152,8 +147,7 @@
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:26:08.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:26:08.267Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:25:32.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:25:32.962Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:18:50.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:18:50.114Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:14:26.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:14:26.327Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "ProyectoCapas\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:09:49.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T20:09:49.193Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwBgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T19:45:25.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:45:25.785Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "ProyectoCapas\\wwwroot\\js\\categoria.js",
               "ViewState": "AgIAAD4AAAAAAAAAAAAIwEoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-14T19:43:05.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:43:05.769Z"
             }
           ]
         }
