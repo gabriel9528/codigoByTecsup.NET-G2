@@ -21,4 +21,8 @@
     <ProjectReference Include="..\ProyectoCapas.AccesoDatos\ProyectoCapas.AccesoDatos.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\articulos\" />
+  </ItemGroup>
+
 </Project>

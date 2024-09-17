@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\articulos\\015ce9bd-17c4-44ba-ae15-c3aa70b9f181.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\015ce9bd-17c4-44ba-ae15-c3aa70b9f181.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\articulos\\8343cb57-7555-4266-a453-0b0c76c53ce6.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\8343cb57-7555-4266-a453-0b0c76c53ce6.png"
+    },
+    {
+      "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\articulos\\8c9b75ff-7daf-4409-a7d2-d3ab118d2efe.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\8c9b75ff-7daf-4409-a7d2-d3ab118d2efe.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\articulos\\d26f9d20-6898-463a-93b8-093a22d66acc.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\d26f9d20-6898-463a-93b8-093a22d66acc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\articulos\\e2358914-a5d1-4717-b24f-0d7f818ce4a8.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\e2358914-a5d1-4717-b24f-0d7f818ce4a8.jpeg"
+    },
+    {
       "Id": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Lunes_16_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\articulo.js",
       "PackagePath": "staticwebassets\\js\\articulo.js"
     },
