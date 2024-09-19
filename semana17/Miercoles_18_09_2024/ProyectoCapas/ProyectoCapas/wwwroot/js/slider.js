@@ -41,7 +41,7 @@ function cargarDataTableSlider() {
                                 </a>
                                 &nbsp;
                                 <a onclick=Delete("/Admin/Sliders/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer; width:100px;">
-                                <i class="far fa-trash-alt"></i>Eliminar Categoria
+                                <i class="far fa-trash-alt"></i>Eliminar Slider
                                 </a>
                             </div>
                             `;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6ifzccVzWdYWM0W+L1QsyhMs1Bd+XZQiWs9XQTJ3sK0=",
+  "Hash": "aWxVkfXRWa1PQlR8xh3cy1ROY4xaqSIrBdsRH6sA+wM=",
   "Source": "ProyectoCapas",
   "BasePath": "_content/ProyectoCapas",
   "Mode": "Default",
@@ -1328,12 +1328,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\e2358914-a5d1-4717-b24f-0d7f818ce4a8.jpeg"
     },
     {
-      "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\sliders\\a0e3eaa1-b6de-44b2-a0a4-5335621ad274.jpg",
+      "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\sliders\\9c77c3d9-f15d-49ad-b40f-12fc84f71de9.jpeg",
       "SourceId": "ProyectoCapas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\",
       "BasePath": "_content/ProyectoCapas",
-      "RelativePath": "imagenes/sliders/a0e3eaa1-b6de-44b2-a0a4-5335621ad274.jpg",
+      "RelativePath": "imagenes/sliders/9c77c3d9-f15d-49ad-b40f-12fc84f71de9.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1344,7 +1344,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\a0e3eaa1-b6de-44b2-a0a4-5335621ad274.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\9c77c3d9-f15d-49ad-b40f-12fc84f71de9.jpeg"
     },
     {
       "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\articulo.js",

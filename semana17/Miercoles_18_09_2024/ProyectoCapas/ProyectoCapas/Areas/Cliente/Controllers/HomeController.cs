@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using ProyectoCapas.AccesoDatos.Data.Repository.IRepository;
 using ProyectoCapas.Models;
+using ProyectoCapas.Models.ViewModels;
 using System.Diagnostics;
 
 namespace ProyectoCapas.Areas.Cliente.Controllers
@@ -7,16 +9,24 @@ namespace ProyectoCapas.Areas.Cliente.Controllers
     [Area("Cliente")]
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IContenedorTrabajo _contenedorTrabajo;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IContenedorTrabajo contenedorTrabajo)
         {
-            _logger = logger;
+            _contenedorTrabajo = contenedorTrabajo;
         }
 
         public IActionResult Index()
         {
-            return View();
+            SlidersArticulosViewModel slidersArticulosViewModel = new SlidersArticulosViewModel()
+            {
+                listArticulos = _contenedorTrabajo.IArticuloRepository.GetAll(includeProperties: "Categoria"),
+                listSliders = _contenedorTrabajo.ISliderRepository.GetAll()
+            };
+
+            ViewBag.IsHome = true;
+
+            return View(slidersArticulosViewModel);
         }
 
         public IActionResult Privacy()

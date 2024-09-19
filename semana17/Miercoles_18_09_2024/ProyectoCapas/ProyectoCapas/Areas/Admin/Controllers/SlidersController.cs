@@ -56,7 +56,6 @@ namespace ProyectoCapas.Areas.Admin.Controllers
         }
         #endregion
 
-
         #region Edit
 
         [HttpGet]
@@ -70,6 +69,75 @@ namespace ProyectoCapas.Areas.Admin.Controllers
             return NotFound();
         }
 
+        [HttpPost]
+        public IActionResult Edit(Slider slider)
+        {
+            string rutaPrincipal = _hostingEnvironment.WebRootPath;
+            var archivos = HttpContext.Request.Form.Files;
+
+            var objSlider = _icontenedorTrabajo.ISliderRepository.GetById(slider.Id);
+
+            if(archivos.Count() > 0)
+            {
+                //Creando una nueva imagen
+                string nombreArchivo = Guid.NewGuid().ToString();
+                var subida = Path.Combine(rutaPrincipal, @"imagenes\sliders");
+                var extension = Path.GetExtension(archivos[0].FileName);
+
+                var rutaImagenAntigua = Path.Combine(rutaPrincipal, objSlider.UrlImagen.TrimStart('\\'));
+
+                if (System.IO.File.Exists(rutaImagenAntigua))
+                {
+                    System.IO.File.Delete(rutaImagenAntigua);
+                }
+
+                using(var fileStream = new FileStream(Path.Combine(subida, nombreArchivo + extension), FileMode.Create))
+                {
+                    archivos[0].CopyTo(fileStream);
+                }
+
+                slider.UrlImagen = @"\imagenes\sliders\" + nombreArchivo + extension;
+
+                _icontenedorTrabajo.ISliderRepository.Update(slider);
+                _icontenedorTrabajo.Save();
+
+                return RedirectToAction(nameof(Index));
+            }
+            else
+            {
+                slider.UrlImagen = objSlider.UrlImagen;
+            }
+
+            _icontenedorTrabajo.ISliderRepository.Update(slider);
+            _icontenedorTrabajo.Save();
+
+            return RedirectToAction(nameof(Index));
+
+        }
+        #endregion
+
+        #region Delete
+        public IActionResult Delete(int id)
+        {
+            var objSlider = _icontenedorTrabajo.ISliderRepository.GetById(id);
+            string rutaPrincipal = _hostingEnvironment.WebRootPath;
+            var rutaImagen = Path.Combine(rutaPrincipal, objSlider.UrlImagen.TrimStart('\\'));
+            if (System.IO.File.Exists(rutaImagen))
+            {
+                System.IO.File.Delete(rutaImagen);
+            }
+
+            if (objSlider == null)
+            {
+                return Json(new { success = false, message = "Error, eliminado slider" });
+            }
+
+            _icontenedorTrabajo.ISliderRepository.Remove(objSlider);
+            _icontenedorTrabajo.Save();
+
+            return Json(new { success = true, message = "Slider eliminado exitosamente" });
+
+        }
         #endregion
 
         #region LLAMADAS A LA API
