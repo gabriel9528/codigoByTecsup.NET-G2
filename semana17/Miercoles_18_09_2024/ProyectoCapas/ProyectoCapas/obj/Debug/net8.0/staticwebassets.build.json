@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DT9HzU8F28C9tItKEdfHGnBnu/ew3gpoQe0Xyx7vD90=",
+  "Hash": "6ifzccVzWdYWM0W+L1QsyhMs1Bd+XZQiWs9XQTJ3sK0=",
   "Source": "ProyectoCapas",
   "BasePath": "_content/ProyectoCapas",
   "Mode": "Default",
@@ -1326,6 +1326,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\e2358914-a5d1-4717-b24f-0d7f818ce4a8.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\imagenes\\sliders\\a0e3eaa1-b6de-44b2-a0a4-5335621ad274.jpg",
+      "SourceId": "ProyectoCapas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\",
+      "BasePath": "_content/ProyectoCapas",
+      "RelativePath": "imagenes/sliders/a0e3eaa1-b6de-44b2-a0a4-5335621ad274.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\a0e3eaa1-b6de-44b2-a0a4-5335621ad274.jpg"
     },
     {
       "Identity": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Miercoles_18_09_2024\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\articulo.js",
