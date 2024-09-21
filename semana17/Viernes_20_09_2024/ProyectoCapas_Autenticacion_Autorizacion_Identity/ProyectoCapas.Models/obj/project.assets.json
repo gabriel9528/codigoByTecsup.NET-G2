@@ -6935,24 +6935,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabriel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gabriel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
       "projectName": "ProyectoCapas.Models",
-      "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
+      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
       "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\obj\\",
+      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7009,7 +7004,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

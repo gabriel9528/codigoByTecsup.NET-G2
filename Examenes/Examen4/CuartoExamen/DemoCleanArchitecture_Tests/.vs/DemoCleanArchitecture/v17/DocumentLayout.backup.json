@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webassemby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|solutionrelative:webassemby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|solutionrelative:webbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243C923-12EF-41D6-8657-BF170463FFB7}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\infraestructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243C923-12EF-41D6-8657-BF170463FFB7}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B830-763E-4B77-B292-1DC22CB7C5B9}|DemoCleanArchitectureTest\\DemoCleanArchitectureTest.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\democleanarchitecturetest\\applicationlayer\\employeeservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B830-763E-4B77-B292-1DC22CB7C5B9}|DemoCleanArchitectureTest\\DemoCleanArchitectureTest.csproj|solutionrelative:democleanarchitecturetest\\applicationlayer\\employeeservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5F96-753D-4FEE-9411-A9D13C1C121B}|ApplicationLayer\\ApplicationLayer.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\applicationlayer\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29F5F96-753D-4FEE-9411-A9D13C1C121B}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webbapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|solutionrelative:webbapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webassemby\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|solutionrelative:webassemby\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webassemby\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|solutionrelative:webassemby\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|solutionrelative:webbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webassemby\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26B0280-678B-4992-8583-71FF3A0192C1}|WebAssemby\\WebAssemby.csproj|solutionrelative:webassemby\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|solutionrelative:webbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5F96-753D-4FEE-9411-A9D13C1C121B}|ApplicationLayer\\ApplicationLayer.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E29F5F96-753D-4FEE-9411-A9D13C1C121B}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|c:\\diskd\\codigotecsup\\c#\\unittest\\democleanarchitecture_tests\\webbapi\\webbapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4599690-3697-4179-984F-DCDF08D55CF6}|WebbAPI\\WebbAPI.csproj|solutionrelative:webbapi\\webbapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\InfraestructureLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\InfraestructureLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InfraestructureLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:02:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\ApplicationLayer\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\ApplicationLayer\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\EmployeeServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:28:47.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeServicesTests.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\DemoCleanArchitectureTest\\ApplicationLayer\\EmployeeServicesTests.cs",
+              "RelativeDocumentMoniker": "DemoCleanArchitectureTest\\ApplicationLayer\\EmployeeServicesTests.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\DemoCleanArchitectureTest\\ApplicationLayer\\EmployeeServicesTests.cs",
+              "RelativeToolTip": "DemoCleanArchitectureTest\\ApplicationLayer\\EmployeeServicesTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:15:23.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAssemby\\Pages\\Home.razor",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAssemby\\Pages\\Home.razor",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwFwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T00:01:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebbAPI\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\Program.cs",
+              "RelativeToolTip": "WebbAPI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:46:48.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\Program.cs",
+              "RelativeDocumentMoniker": "WebAssemby\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\Program.cs",
+              "RelativeToolTip": "WebAssemby\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:42:00.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebbAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebbAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:01:44.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAssemby\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAssemby\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T01:20:38.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebbAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebbAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T01:22:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebAssemby\\wwwroot\\index.html",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebAssemby\\wwwroot\\index.html",
+              "RelativeToolTip": "WebAssemby\\wwwroot\\index.html",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwBwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-25T23:26:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebbAPI\\appsettings.json",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\appsettings.json",
+              "RelativeToolTip": "WebbAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T22:45:42.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationLayer.csproj",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\ApplicationLayer\\ApplicationLayer.csproj",
+              "RelativeDocumentMoniker": "ApplicationLayer\\ApplicationLayer.csproj",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\ApplicationLayer\\ApplicationLayer.csproj",
+              "RelativeToolTip": "ApplicationLayer\\ApplicationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T22:12:04.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebbAPI.csproj",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\WebbAPI.csproj",
+              "RelativeDocumentMoniker": "WebbAPI\\WebbAPI.csproj",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\UnitTest\\DemoCleanArchitecture_Tests\\WebbAPI\\WebbAPI.csproj",
+              "RelativeToolTip": "WebbAPI\\WebbAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T21:49:59.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

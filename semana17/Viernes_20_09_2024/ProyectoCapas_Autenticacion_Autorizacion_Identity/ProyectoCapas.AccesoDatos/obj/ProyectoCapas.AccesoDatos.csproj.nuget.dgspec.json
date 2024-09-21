@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
         "projectName": "ProyectoCapas.AccesoDatos",
-        "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
-                "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj"
+              "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
+                "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj"
               },
-              "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
-                "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj"
+              "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj"
               }
             }
           }
@@ -92,25 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
         "projectName": "ProyectoCapas.Models",
-        "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -167,25 +159,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
         "projectName": "ProyectoCapas.Utilidades",
-        "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -232,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

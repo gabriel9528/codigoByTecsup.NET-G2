@@ -76,3 +76,15 @@ C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Ide
 C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\refint\ProyectoCapas.Utilidades.dll
 C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.pdb
 C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ref\ProyectoCapas.Utilidades.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\bin\Debug\net8.0\ProyectoCapas.Utilidades.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\refint\ProyectoCapas.Utilidades.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana17\Viernes_20_09_2024\ProyectoCapas_Autenticacion_Autorizacion_Identity\ProyectoCapas.Utilidades\obj\Debug\net8.0\ref\ProyectoCapas.Utilidades.dll

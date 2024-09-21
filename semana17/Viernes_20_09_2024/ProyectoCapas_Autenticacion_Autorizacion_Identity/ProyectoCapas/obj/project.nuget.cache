@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pv5/FkArBXnc2rtiRAfWo+QyXDN3EH0V9nY/MwX7el8pvsJyc1Bv9OYd7LMplD0M92NVmDKO/oezaXqcDe5Cgw==",
+  "dgSpecHash": "Oc+fPPrQSGM=",
   "success": true,
-  "projectFilePath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\ProyectoCapas.csproj",
+  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas_Autenticacion_Autorizacion_Identity\\ProyectoCapas\\ProyectoCapas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
