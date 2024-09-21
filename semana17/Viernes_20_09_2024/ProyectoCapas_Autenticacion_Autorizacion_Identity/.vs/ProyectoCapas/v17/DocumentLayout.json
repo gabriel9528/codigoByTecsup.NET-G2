@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|c:\\diskd\\codigotecsup\\c#\\proyectocapas\\proyecto\\6.autenticacion_autorizacion_identity\\proyectocapas\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas.accesodatos\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas.accesodatos\\data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24BBD1F-A059-4DB6-B342-96F6FBA9694B}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\proyectocapas\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64F1CC7A-11D0-46D8-B499-360E5531D9A4}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAiwJ4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:07:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:26:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:20:26.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:20:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:36:18.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:59:09.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:08:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:38:42.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:36:34.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:30:56.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:42:40.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:40:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:38:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:34:27.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Program.cs",
+              "RelativeToolTip": "ProyectoCapas\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:59:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAC0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T20:09:27.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\ProyectoCapas\\Proyecto\\6.Autenticacion_Autorizacion_Identity\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:09:10.32Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

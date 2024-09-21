@@ -3422,7 +3422,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "Microsoft.Extensions.Identity.Stores": "8.0.8"
         },
         "compile": {
           "bin/placeholder/ProyectoCapas.Models.dll": {}
@@ -9827,11 +9828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
       "projectName": "ProyectoCapas.AccesoDatos",
-      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\obj\\",
+      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9849,11 +9850,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
-              "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj"
+            "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
+              "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj"
             },
-            "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj"
+            "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj"
             }
           }
         }

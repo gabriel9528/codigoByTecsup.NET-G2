@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l8j1CcBGsn8=",
+  "dgSpecHash": "R+jQC1fDHKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

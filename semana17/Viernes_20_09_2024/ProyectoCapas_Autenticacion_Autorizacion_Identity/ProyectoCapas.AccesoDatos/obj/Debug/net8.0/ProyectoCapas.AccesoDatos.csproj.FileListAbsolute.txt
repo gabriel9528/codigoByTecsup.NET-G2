@@ -1,0 +1,134 @@
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\ProyectoCapas\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.sourcelink.json
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\.Netg1\RepositoryPattern\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\2.RepositoryPattern-Categoria - Copy\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\4.Slider\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\5.PaginaInicio\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.deps.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Models.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\bin\Debug\net8.0\ProyectoCapas.Utilidades.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\Proyecto.3D06B89D.Up2Date
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\refint\ProyectoCapas.AccesoDatos.dll
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.pdb
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ProyectoCapas.AccesoDatos.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\ProyectoCapas\Proyecto\6.Autenticacion_Autorizacion_Identity\ProyectoCapas.AccesoDatos\obj\Debug\net8.0\ref\ProyectoCapas.AccesoDatos.dll

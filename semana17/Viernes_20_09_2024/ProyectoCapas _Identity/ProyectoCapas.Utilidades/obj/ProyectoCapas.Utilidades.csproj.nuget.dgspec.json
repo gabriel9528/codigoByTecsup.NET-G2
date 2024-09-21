@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
         "projectName": "ProyectoCapas.Utilidades",
-        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

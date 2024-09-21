@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
         "projectName": "ProyectoCapas.Models",
-        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\ProyectoCapas.Models.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas\\ProyectoCapas.Models\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana17\\Viernes_20_09_2024\\ProyectoCapas _Identity\\ProyectoCapas.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             }
           },
           "imports": [

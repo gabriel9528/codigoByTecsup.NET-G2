@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoCapas.Utilidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+420311c550f99dc3b1691d67a24d50216d541dd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8858eaffb392a051bdd376fa20d206ec4244a9e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoCapas.Utilidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoCapas.Utilidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
