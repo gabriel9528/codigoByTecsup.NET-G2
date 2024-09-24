@@ -1,0 +1,12 @@
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\bin\Debug\net8.0\SearchClassLibrary.deps.json
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\bin\Debug\net8.0\SearchClassLibrary.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\bin\Debug\net8.0\SearchClassLibrary.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.sourcelink.json
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\refint\SearchClassLibrary.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\SearchClassLibrary.pdb
+C:\Users\gabriel\Desktop\.Net-g2\semana18\Lunes_22_09_2024\ASPNetCore_JWT\SearchClassLibrary\obj\Debug\net8.0\ref\SearchClassLibrary.dll
