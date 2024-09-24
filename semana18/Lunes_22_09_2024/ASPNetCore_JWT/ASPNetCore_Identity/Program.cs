@@ -1,9 +1,11 @@
 using ASPNetCore_Identity.Data;
+using ASPNetCore_Identity.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using SearchClassLibrary.Contracts;
 using Swashbuckle.AspNetCore.Filters;
 using System.Text;
 
@@ -59,7 +61,7 @@ builder.Services.AddSwaggerGen(options =>
     options.OperationFilter<SecurityRequirementsOperationFilter>();
 });
 
-
+builder.Services.AddScoped<IUserAccount, UserAccount>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
