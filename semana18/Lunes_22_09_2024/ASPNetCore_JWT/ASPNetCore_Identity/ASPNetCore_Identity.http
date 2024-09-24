@@ -1,0 +1,6 @@
+@ASPNetCore_Identity_HostAddress = http://localhost:5058
+
+GET {{ASPNetCore_Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
