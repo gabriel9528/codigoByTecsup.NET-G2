@@ -31,7 +31,7 @@ namespace Microservicios.Services.CouponAPI.Controllers
                 _response.Result = _mapper.Map<IEnumerable<CouponDto>>(couponList);
                 _response.Message = "Cupones recuperados con exito";
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 _response.IsSuccess = false;
                 _response.Message = "Ocurrio un error al obtener los cupones";
@@ -58,7 +58,8 @@ namespace Microservicios.Services.CouponAPI.Controllers
                     _response.Message = "Cupon no encontrado";
                 }
 
-            }catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 _response.IsSuccess = false;
                 _response.Message = "Ocurrio un error al obtener el cupon";
@@ -95,6 +96,104 @@ namespace Microservicios.Services.CouponAPI.Controllers
             return _response;
         }
 
+        [HttpPost]
+        public ResponseDto Post([FromBody] CouponDto couponDto)
+        {
+            try
+            {
+                if (couponDto != null)
+                {
+                    Coupon coupon = _mapper.Map<Coupon>(couponDto);
+                    _db.Coupon.Add(coupon);
+                    _db.SaveChanges();
 
+                    _response.Result = _mapper.Map<CouponDto>(coupon);
+                    _response.Message = $"Cupon {coupon.CouponCode} creado con exito";
+
+                }
+                else
+                {
+                    _response.IsSuccess = false;
+                    _response.Message = "El cupon ingresado no es valido";
+                }
+
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = "Ocurrio un error al crear el cupon";
+            }
+
+            return _response;
+        }
+
+        [HttpPut]
+        public ResponseDto Put([FromBody] CouponDto couponDto)
+        {
+            try
+            {
+                if (couponDto != null)
+                {
+                    Coupon coupon = _mapper.Map<Coupon>(couponDto);
+                    _db.Coupon.Update(coupon);
+                    _db.SaveChanges();
+
+                    _response.Result = _mapper.Map<CouponDto>(coupon);
+                    _response.Message = $"Cupon {coupon.CouponCode} actualizado con exito";
+                }
+                else
+                {
+                    _response.IsSuccess = false;
+                    _response.Message = "El cupon ingresado no es valido";
+                }
+
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = "Ocurrio un error al actualizar el cupon";
+            }
+
+            return _response;
+        }
+
+        [HttpDelete]
+        [Route("{id:int}")]
+        public ResponseDto Delete(int id)
+        {
+            try
+            {
+                if (id <= 0)
+                {
+                    _response.IsSuccess = false;
+                    _response.Message = "El id del cupon no es valido";
+                }
+                else
+                {
+                    Coupon coupon = _db.Coupon.FirstOrDefault(x => x.CouponId == id);
+                    if (coupon != null)
+                    {
+                        _db.Coupon.Remove(coupon);
+                        _db.SaveChanges();
+
+                        _response.Result = _mapper.Map<CouponDto>(coupon);
+                        _response.Message = $"Cupon {coupon.CouponCode} eliminado con exito";
+
+                    }
+                    else
+                    {
+                        _response.IsSuccess = false;
+                        _response.Message = "EL cupon no existe";
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = "Ocurrio un error al eliminar el cupon";
+            }
+
+            return _response;
+        }
     }
 }
