@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{5F3C901D-4C55-49AE-BEE8-C0A3A5CC645B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicios.Services.CouponAPI", "Microservicios.Services.CouponAPI\Microservicios.Services.CouponAPI.csproj", "{EF176734-4606-4311-96A4-2503B15578B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservicios.Services.CouponAPI", "Microservicios.Services.CouponAPI\Microservicios.Services.CouponAPI.csproj", "{EF176734-4606-4311-96A4-2503B15578B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicios.Web", "Microservicios.Web\Microservicios.Web.csproj", "{B5B251EF-4DF4-434B-8E57-C7276595E3BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,17 @@ Global
 		{EF176734-4606-4311-96A4-2503B15578B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF176734-4606-4311-96A4-2503B15578B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF176734-4606-4311-96A4-2503B15578B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B251EF-4DF4-434B-8E57-C7276595E3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B251EF-4DF4-434B-8E57-C7276595E3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B251EF-4DF4-434B-8E57-C7276595E3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B251EF-4DF4-434B-8E57-C7276595E3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EF176734-4606-4311-96A4-2503B15578B5} = {5F3C901D-4C55-49AE-BEE8-C0A3A5CC645B}
+		{B5B251EF-4DF4-434B-8E57-C7276595E3BF} = {F667632B-B5C1-47D9-9812-DE14E3539907}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B9D1AD7-4511-4FB5-AD72-26C8AFAFAAD1}
