@@ -60,13 +60,57 @@ namespace Microservicios.Services.AuthAPI.Services
 
 
         }
-        public Task<LoginResponseDto> Login(LoginRequestDto loginRequestDto)
+        public async Task<LoginResponseDto> Login(LoginRequestDto loginRequestDto)
         {
-            throw new NotImplementedException();
+            var user = _db.ApplicationUsers.FirstOrDefault(x => x.UserName.ToLower() == loginRequestDto.UserName.ToLower());
+            bool isValid = await _userManager.CheckPasswordAsync(user, loginRequestDto.Password);
+
+            if(user == null || isValid == false)
+            {
+                return new LoginResponseDto()
+                {
+                    User = null,
+                    Token = ""
+                };
+            }
+
+            //si fue encontrado, entonces generamos el token
+            var roles = await _userManager.GetRolesAsync(user);
+            var token = _jwtTokenGenerator.GenerateToken(user, roles);
+
+            UserDto userDto = new UserDto()
+            {
+                Email = user.Email,
+                Id = user.Id,
+                Name = user.Nombres,
+                PhoneNumber = user.PhoneNumber
+            };
+
+            LoginResponseDto loginResponseDto = new()
+            {
+                User = userDto,
+                Token = token
+            };
+
+            return loginResponseDto;
+
         }
-        public Task<bool> AssignRole(string email, string roleName)
+        public async Task<bool> AssignRole(string email, string roleName)
         {
-            throw new NotImplementedException();
+            var user = _db.ApplicationUsers.FirstOrDefault(x=>x.Email.ToLower() == email.ToLower());
+
+            if(user != null)
+            {
+                if (!_roleManager.RoleExistsAsync(roleName).GetAwaiter().GetResult())
+                {
+                    await _roleManager.CreateAsync(new IdentityRole(roleName));
+                }
+
+                await _userManager.AddToRoleAsync(user, roleName);
+                return true;
+            }
+
+            return false;
         }
 
     }

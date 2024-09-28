@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\services\\iservices\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,20 +60,20 @@
               "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Services\\AuthService.cs",
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Services\\AuthService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAiwGMAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T01:49:54.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowB8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T01:34:19.068Z",
               "EditorCaption": ""
@@ -88,8 +88,7 @@
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:32:20.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:32:20.284Z"
             },
             {
               "$type": "Document",
@@ -101,12 +100,11 @@
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Services\\IServices\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:29:45.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:29:45.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Program.cs",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:16:48.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:16:48.102Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Models\\JwtOptions.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:14:11.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:14:11.137Z"
             },
             {
               "$type": "Document",
@@ -164,8 +160,7 @@
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-28T01:08:46.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:08:46.914Z"
             },
             {
               "$type": "Document",
