@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj": {}
   },
   "projects": {
-    "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj",
         "projectName": "Microservicios.Web",
-        "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\Microservicios.Web.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\1CouponAPI\\Microservicios.Web\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
