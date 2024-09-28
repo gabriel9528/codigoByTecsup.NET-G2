@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microservicios.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+063c54f1c7c8f4fb80082dd2c5ee97cfbf29e16a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+433a0fb9de88e9c3e4158da1267d64aa7e6d19b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microservicios.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microservicios.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
