@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EED66A7-726C-4A6D-82D1-6F564AA712CD}|Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EED66A7-726C-4A6D-82D1-6F564AA712CD}|Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj|solutionrelative:microservicios.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9EED66A7-726C-4A6D-82D1-6F564AA712CD}|Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EED66A7-726C-4A6D-82D1-6F564AA712CD}|Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj|solutionrelative:microservicios.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana18\\viernes_27_09_2024\\1couponapi\\microservicios.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72445-F5A7-44F1-9855-E402A03A626E}|Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj|solutionrelative:microservicios.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.CouponAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Microservicios.Services.CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.CouponAPI\\Program.cs",
-              "RelativeToolTip": "Microservicios.Services.CouponAPI\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:43:01.387Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -53,48 +44,74 @@
               "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Program.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Program.cs",
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvxkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:42:58.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Microservicios.Services.AuthAPI\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:40:11.329Z",
+              "WhenOpened": "2024-09-28T01:16:48.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Microservicios.Services.AuthAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "Microservicios.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:35:52.339Z",
+              "WhenOpened": "2024-09-28T01:14:11.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservicios.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Web\\appsettings.json",
+              "RelativeToolTip": "Microservicios.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T01:10:26.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Microservicios.Services.AuthAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservicios.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "Microservicios.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-28T00:34:29.032Z",
+              "WhenOpened": "2024-09-28T01:10:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\appsettings.json",
+              "RelativeToolTip": "Microservicios.Services.AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T01:08:46.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Microservicios.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:08:18.957Z",
               "EditorCaption": ""
             }
           ]
