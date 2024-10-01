@@ -1,8 +1,10 @@
 ﻿using Microservicios.Web.Models;
 using Microservicios.Web.Service.IService;
+using Microservicios.Web.Utility;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -50,6 +52,65 @@ namespace Microservicios.Web.Controllers
         }
 
 
+        [HttpGet]
+        public IActionResult Register()
+        {
+            var roleList = new List<SelectListItem>()
+            {
+                new SelectListItem() {Text = SD.RoleAdmin, Value = SD.RoleAdmin},
+                new SelectListItem() {Text = SD.RoleCustomer, Value = SD.RoleCustomer},
+            };
+
+            ViewBag.RoleList = roleList;
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Register(RegistrationRequestDto registrationRequestDto)
+        {
+            ResponseDto responseDto = await _authService.RegisterAsync(registrationRequestDto);
+            ResponseDto assignRole;
+            if (responseDto != null && responseDto.IsSuccess)
+            {
+                if (string.IsNullOrEmpty(registrationRequestDto.Role))
+                {
+                    registrationRequestDto.Role = SD.RoleAdmin;
+                }
+
+                assignRole = await _authService.AssignRoleAsync(registrationRequestDto);
+                if (assignRole != null && assignRole.IsSuccess)
+                {
+                    TempData["success"] = "Registration successful";
+                    return RedirectToAction("Login");
+                }
+            }
+            else
+            {
+                TempData["error"] = responseDto.Message;
+            }
+
+            var roleList = new List<SelectListItem>()
+            {
+                new SelectListItem() {Text = SD.RoleAdmin, Value = SD.RoleAdmin},
+                new SelectListItem() {Text = SD.RoleCustomer, Value = SD.RoleCustomer},
+            };
+
+            ViewBag.RoleList = roleList;
+            return View(registrationRequestDto);
+
+        }
+
+
+        [HttpGet]
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+            _tokenProvider.ClearToken();
+            return RedirectToAction("Index", "Home");
+        }
+
+
         private async Task SingInUser(LoginResponseDto loginResponseDto)
         {
             var handler = new JwtSecurityTokenHandler();
@@ -71,6 +132,9 @@ namespace Microservicios.Web.Controllers
 
             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
         }
+
+
+
         public IActionResult Index()
         {
             return View();
