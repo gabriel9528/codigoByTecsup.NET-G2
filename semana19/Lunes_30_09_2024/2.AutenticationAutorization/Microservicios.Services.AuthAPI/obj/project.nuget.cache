@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/EQ+VWp55zg=",
+  "dgSpecHash": "Skljhnm8ZnM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj",
+  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Lunes_30_09_2024\\2.AutenticationAutorization\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

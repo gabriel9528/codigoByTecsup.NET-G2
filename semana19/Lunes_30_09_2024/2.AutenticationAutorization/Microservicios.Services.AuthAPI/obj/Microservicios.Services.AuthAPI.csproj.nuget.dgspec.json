@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Lunes_30_09_2024\\2.AutenticationAutorization\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Lunes_30_09_2024\\2.AutenticationAutorization\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Lunes_30_09_2024\\2.AutenticationAutorization\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj",
         "projectName": "Microservicios.Services.AuthAPI",
-        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Lunes_30_09_2024\\2.AutenticationAutorization\\Microservicios.Services.AuthAPI\\Microservicios.Services.AuthAPI.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana18\\Viernes_27_09_2024\\1CouponAPI\\Microservicios.Services.AuthAPI\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Lunes_30_09_2024\\2.AutenticationAutorization\\Microservicios.Services.AuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
