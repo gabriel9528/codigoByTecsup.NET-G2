@@ -2,6 +2,7 @@
 using Microservicios.Services.ProductAPI.Data;
 using Microservicios.Services.ProductAPI.Models;
 using Microservicios.Services.ProductAPI.Models.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ namespace Microservicios.Services.ProductAPI.Controllers
 {
     [Route("api/product")]
     [ApiController]
+    [Authorize(Roles ="Admin")]
     public class ProductAPIController : ControllerBase
     {
         private readonly ApplicationDbContext _db;

@@ -56,6 +56,7 @@ namespace Microservicios.Web.Service
             {
                 ApiType = SD.ApiType.PUT,
                 Url = SD.ProductAPIBase + "/api/product",
+                Data = productDto
             });
         }
     }
