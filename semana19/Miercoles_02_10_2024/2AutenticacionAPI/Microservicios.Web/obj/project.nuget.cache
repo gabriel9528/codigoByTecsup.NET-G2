@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkqlA2yzFZk=",
+  "dgSpecHash": "e3dHFi9KpmA=",
   "success": true,
-  "projectFilePath": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\2AutenticacionAPI\\Microservicios.Web\\Microservicios.Web.csproj",
+  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Web\\Microservicios.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",

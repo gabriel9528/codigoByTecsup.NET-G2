@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\2AutenticacionAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\diskd\\codigotecsup\\c#\\microservicios1\\2autenticacionapi\\microservicios.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\diskd\\codigotecsup\\c#\\microservicios1\\2autenticacionapi\\microservicios.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\diskd\\codigotecsup\\c#\\microservicios1\\2autenticacionapi\\microservicios.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EED66A7-726C-4A6D-82D1-6F564AA712CD}|Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj|c:\\diskd\\codigotecsup\\c#\\microservicios1\\2autenticacionapi\\microservicios.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -94,12 +94,11 @@
               "RelativeToolTip": "Microservicios.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAmwF8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:15:45.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T13:15:45.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\2AutenticacionAPI\\Microservicios.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Microservicios.Web\\Views\\Auth\\Login.cshtml",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Microservicios.Services.CouponAPI\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T13:33:51.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T13:33:51.792Z"
             },
             {
               "$type": "Document",
@@ -133,18 +131,17 @@
               "RelativeToolTip": "Microservicios.Web\\Service\\AuthService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:51:27.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T12:51:27.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\2AutenticacionAPI\\Microservicios.Web\\Program.cs",
               "RelativeDocumentMoniker": "Microservicios.Web\\Program.cs",
               "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Microservicios1\\2AutenticacionAPI\\Microservicios.Web\\Program.cs",
               "RelativeToolTip": "Microservicios.Web\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T12:49:48.255Z",
               "EditorCaption": ""
@@ -159,8 +156,7 @@
               "RelativeToolTip": "Microservicios.Services.CouponAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-27T13:34:04.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T13:34:04.127Z"
             },
             {
               "$type": "Document",
@@ -172,8 +168,7 @@
               "RelativeToolTip": "Microservicios.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T13:57:21.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T13:57:21.597Z"
             },
             {
               "$type": "Document",
@@ -185,8 +180,7 @@
               "RelativeToolTip": "Microservicios.Services.AuthAPI\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-27T12:08:10.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T12:08:10.758Z"
             },
             {
               "$type": "Document",
@@ -222,8 +216,7 @@
               "RelativeToolTip": "Microservicios.Web\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAI8AAAAAAAAAAAAYwKIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T13:46:45.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T13:46:45.966Z"
             },
             {
               "$type": "Document",
