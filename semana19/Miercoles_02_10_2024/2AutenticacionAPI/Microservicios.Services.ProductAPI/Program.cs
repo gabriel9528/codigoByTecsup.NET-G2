@@ -1,4 +1,5 @@
 using AutoMapper;
+using Microservicios.Services.ProductAPI;
 using Microservicios.Services.ProductAPI.Data;
 using Microservicios.Services.ProductAPI.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
