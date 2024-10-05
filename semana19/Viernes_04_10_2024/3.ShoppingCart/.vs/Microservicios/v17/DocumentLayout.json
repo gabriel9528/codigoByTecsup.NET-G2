@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA5wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:37:13.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T03:22:30.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T03:22:30.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\appsettings.json",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Service\\ProductService.cs",
@@ -100,12 +116,11 @@
               "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Service\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:20:02.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T03:20:02.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BackendApiAuthenticationHttpClientHandler.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
@@ -113,12 +128,11 @@
               "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:14:13.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T03:14:13.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CouponService.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Service\\CouponService.cs",
               "RelativeDocumentMoniker": "Microservicios.Web\\Service\\CouponService.cs",
@@ -130,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CouponAPIController.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
@@ -142,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ICouponService.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Service\\IService\\ICouponService.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Service\\IService\\ICouponService.cs",
@@ -154,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Service\\IService\\IProductService.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Service\\IService\\IProductService.cs",
@@ -166,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20241005023757_table_ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Migrations\\20241005023757_table_ShoppingCart.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Migrations\\20241005023757_table_ShoppingCart.cs",
@@ -178,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ProductAPI\\MappingConfig.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ProductAPI\\MappingConfig.cs",
@@ -190,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\MappingConfig.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\MappingConfig.cs",
@@ -202,20 +216,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Program.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Program.cs",
               "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Program.cs",
               "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T02:20:27.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WebApplicationBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
