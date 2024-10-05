@@ -4280,11 +4280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj",
       "projectName": "Microservicios.Services.CouponAPI",
-      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj",
+      "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj",
       "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Services.CouponAPI\\obj\\",
+      "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.CouponAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

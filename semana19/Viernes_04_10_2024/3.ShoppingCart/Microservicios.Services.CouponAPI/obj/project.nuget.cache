@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ekeSag01Smo=",
+  "dgSpecHash": "wbc4B2fdedk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.CouponAPI\\Microservicios.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

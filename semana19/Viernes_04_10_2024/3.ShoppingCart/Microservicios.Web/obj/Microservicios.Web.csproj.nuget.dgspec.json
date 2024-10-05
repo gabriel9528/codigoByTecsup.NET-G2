@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Web\\Microservicios.Web.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Microservicios.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Web\\Microservicios.Web.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Microservicios.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Web\\Microservicios.Web.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Microservicios.Web.csproj",
         "projectName": "Microservicios.Web",
-        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Web\\Microservicios.Web.csproj",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Microservicios.Web.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Miercoles_02_10_2024\\2AutenticacionAPI\\Microservicios.Web\\obj\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

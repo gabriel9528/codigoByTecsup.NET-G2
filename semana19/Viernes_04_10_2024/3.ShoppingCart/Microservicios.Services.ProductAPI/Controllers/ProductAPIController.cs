@@ -10,7 +10,7 @@ namespace Microservicios.Services.ProductAPI.Controllers
 {
     [Route("api/product")]
     [ApiController]
-    [Authorize(Roles ="Admin")]
+    //[Authorize(Roles ="Admin")]
     public class ProductAPIController : ControllerBase
     {
         private readonly ApplicationDbContext _db;
