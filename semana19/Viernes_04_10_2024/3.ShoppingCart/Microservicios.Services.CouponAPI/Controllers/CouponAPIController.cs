@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Microservicios.Services.CouponAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/coupon")]
     [ApiController]
     [Authorize]
     public class CouponAPIController : ControllerBase
