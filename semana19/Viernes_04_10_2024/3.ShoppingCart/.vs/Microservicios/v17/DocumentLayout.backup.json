@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A9CEB59-864A-410C-9134-BC15D6DB507C}|Microservicios.Services.ProductAPI\\Microservicios.Services.ProductAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A9CEB59-864A-410C-9134-BC15D6DB507C}|Microservicios.Services.ProductAPI\\Microservicios.Services.ProductAPI.csproj|solutionrelative:microservicios.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A9CEB59-864A-410C-9134-BC15D6DB507C}|Microservicios.Services.ProductAPI\\Microservicios.Services.ProductAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9CEB59-864A-410C-9134-BC15D6DB507C}|Microservicios.Services.ProductAPI\\Microservicios.Services.ProductAPI.csproj|solutionrelative:microservicios.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.web\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93E9AD97-58DD-4144-BEFC-4A760A431B16}|Microservicios.Web\\Microservicios.Web.csproj|solutionrelative:microservicios.web\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|c:\\users\\gabriel\\desktop\\.net-g2\\semana19\\viernes_04_10_2024\\3.shoppingcart\\microservicios.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BE0FD-0CD7-49B7-A8FE-FF089947240C}|Microservicios.Services.ShoppingCartAPI\\Microservicios.Services.ShoppingCartAPI.csproj|solutionrelative:microservicios.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,80 +59,138 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeDocumentMoniker": "Microservicios.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeToolTip": "Microservicios.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:40:51.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "Microservicios.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "Microservicios.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T00:34:05.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Microservicios.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Microservicios.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:19:05.246Z",
+              "WhenOpened": "2024-10-05T01:33:38.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Microservicios.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Microservicios.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T00:26:34.093Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:32:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "Microservicios.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:32:33.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Microservicios.Web\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Service\\ProductService.cs",
-              "RelativeToolTip": "Microservicios.Web\\Service\\ProductService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAABAAAAAAAAAAA==",
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:20:02.945Z",
+              "WhenOpened": "2024-10-05T01:13:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:13:12.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Service\\IService\\IProductService.cs",
-              "RelativeDocumentMoniker": "Microservicios.Web\\Service\\IService\\IProductService.cs",
-              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Web\\Service\\IService\\IProductService.cs",
-              "RelativeToolTip": "Microservicios.Web\\Service\\IService\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:19:55.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T01:12:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:09:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:08:25.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:07:31.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:04:03.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "Microservicios.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana19\\Viernes_04_10_2024\\3.ShoppingCart\\Microservicios.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeToolTip": "Microservicios.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:01:34.917Z"
             }
           ]
         }
