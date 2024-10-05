@@ -137,3 +137,4 @@ C:\Users\gabriel\Desktop\.Net-g2\semana19\Viernes_04_10_2024\3.ShoppingCart\Micr
 C:\Users\gabriel\Desktop\.Net-g2\semana19\Viernes_04_10_2024\3.ShoppingCart\Microservicios.Services.ShoppingCartAPI\obj\Debug\net8.0\Microservicios.Services.ShoppingCartAPI.pdb
 C:\Users\gabriel\Desktop\.Net-g2\semana19\Viernes_04_10_2024\3.ShoppingCart\Microservicios.Services.ShoppingCartAPI\obj\Debug\net8.0\Microservicios.Services.ShoppingCartAPI.genruntimeconfig.cache
 C:\Users\gabriel\Desktop\.Net-g2\semana19\Viernes_04_10_2024\3.ShoppingCart\Microservicios.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Microservicios.Services.ShoppingCartAPI.dll
+C:\Users\gabriel\Desktop\.Net-g2\semana19\Viernes_04_10_2024\3.ShoppingCart\Microservicios.Services.ShoppingCartAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
