@@ -151,8 +151,8 @@ namespace Microservicios.Services.ShoppingCartAPI.Controllers
                 IEnumerable<ProductDto> productDtoList = await _productService.GetProducts();
                 foreach (var item in cartDto.CartDetailsDto)
                 {
-                    item.Product = productDtoList.FirstOrDefault(x => x.ProductId == item.ProductId);
-                    cartDto.CartHeaderDto.CartTotal += (item.Product.Price * item.Count);
+                    item.ProductDto = productDtoList.FirstOrDefault(x => x.ProductId == item.ProductId);
+                    cartDto.CartHeaderDto.CartTotal += (item.ProductDto.Price * item.Count);
                 }
 
                 //ICouponService - valida si existe el coupon

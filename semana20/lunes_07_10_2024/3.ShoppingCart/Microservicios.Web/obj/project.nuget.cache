@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LK6Ow0A/U0M=",
+  "dgSpecHash": "r+7tHb9nkP0=",
   "success": true,
   "projectFilePath": "C:\\Users\\gabriel\\Desktop\\.Net-g2\\semana20\\lunes_07_10_2024\\3.ShoppingCart\\Microservicios.Web\\Microservicios.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gabriel\\.nuget\\packages\\identitymodel\\7.0.0\\identitymodel.7.0.0.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
