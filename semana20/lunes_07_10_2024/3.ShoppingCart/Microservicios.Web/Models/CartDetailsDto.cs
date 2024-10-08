@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-
-namespace Microservicios.Services.ShoppingCartAPI.Models.Dto
+﻿namespace Microservicios.Web.Models
 {
     public class CartDetailsDto
     {

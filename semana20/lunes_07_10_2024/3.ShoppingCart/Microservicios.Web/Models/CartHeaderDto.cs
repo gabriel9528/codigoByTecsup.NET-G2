@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-
-namespace Microservicios.Services.ShoppingCartAPI.Models.Dto
+﻿namespace Microservicios.Web.Models
 {
     public class CartHeaderDto
     {
@@ -14,6 +11,5 @@ namespace Microservicios.Services.ShoppingCartAPI.Models.Dto
         public string? LastName { get; set; }
         public string? Phone { get; set; }
         public string? Email { get; set; }
-
     }
 }
