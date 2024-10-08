@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5mFmrgto7LwoHJpkK7LuS9We37FFW5KMtS+Qj/DphdI=",
+  "Source": "Microservicios.Services.AuthAPI",
+  "BasePath": "_content/Microservicios.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
